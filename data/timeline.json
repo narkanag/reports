@@ -3,14 +3,14 @@
   "children" : [ {
     "name" : "0-0",
     "children" : [ {
-      "name" : "Verify  and validate content of language 'Español (Perú)'",
-      "uid" : "654c6e353b6b292b",
+      "name" : "Logged into Application with valid credentials in web View",
+      "uid" : "37b4288205229636",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
-        "start" : 1648787473088,
-        "stop" : 1648787480688,
-        "duration" : 7600
+        "start" : 1648787928101,
+        "stop" : 1648787947017,
+        "duration" : 18916
       },
       "flaky" : false,
       "newFailed" : false,
@@ -20,14 +20,31 @@
       "retriesStatusChange" : false,
       "parameters" : [ "chrome-100.0.4896.60", "100.0.4896.60" ]
     }, {
-      "name" : "Verify  and validate content of language 'Português (Brasil)'",
-      "uid" : "f2d74f486d9c44c2",
+      "name" : "Search and Select Tour plan in web View",
+      "uid" : "1ac9fbe42c5466fb",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
-        "start" : 1648787488954,
-        "stop" : 1648787496585,
-        "duration" : 7631
+        "start" : 1648787991087,
+        "stop" : 1648788016894,
+        "duration" : 25807
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-100.0.4896.60", "100.0.4896.60" ]
+    }, {
+      "name" : "Search and Select Tour plan in mobile View",
+      "uid" : "190ebc163d8593ad",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648788067585,
+        "stop" : 1648788090708,
+        "duration" : 23123
       },
       "flaky" : false,
       "newFailed" : false,
@@ -37,14 +54,31 @@
       "retriesStatusChange" : false,
       "parameters" : [ "chrome-100.0.4896.60", "100.0.4896.60" ]
     }, {
-      "name" : "Verify  and validate content of language 'Español (Venezuela)'",
-      "uid" : "f6abbfde601c1233",
+      "name" : "Search and Select Tour plan in mobile View",
+      "uid" : "1faaf32a477ace07",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
-        "start" : 1648787480699,
-        "stop" : 1648787488944,
-        "duration" : 8245
+        "start" : 1648788142271,
+        "stop" : 1648788165967,
+        "duration" : 23696
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-100.0.4896.60", "100.0.4896.60" ]
+    }, {
+      "name" : "Search and Select Tour plan in web View",
+      "uid" : "6ad079da085a24c0",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648787947041,
+        "stop" : 1648787968797,
+        "duration" : 21756
       },
       "flaky" : false,
       "newFailed" : false,
@@ -54,14 +88,14 @@
       "retriesStatusChange" : false,
       "parameters" : [ "chrome-100.0.4896.60", "100.0.4896.60" ]
     }, {
-      "name" : "Verify  and validate content of language 'English'",
-      "uid" : "b2362a4b0c4b8702",
+      "name" : "Logout from application in web View",
+      "uid" : "2f7d9295b206964d",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
-        "start" : 1648787412359,
-        "stop" : 1648787422841,
-        "duration" : 10482
+        "start" : 1648787968803,
+        "stop" : 1648787976139,
+        "duration" : 7336
       },
       "flaky" : false,
       "newFailed" : false,
@@ -71,14 +105,31 @@
       "retriesStatusChange" : false,
       "parameters" : [ "chrome-100.0.4896.60", "100.0.4896.60" ]
     }, {
-      "name" : "Verify  and validate content of language 'Español (Colombia)'",
-      "uid" : "a0e60f401007c4c0",
+      "name" : "Logout from application in mobile View",
+      "uid" : "cc339aed59b96d5d",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
-        "start" : 1648787456448,
-        "stop" : 1648787464849,
-        "duration" : 8401
+        "start" : 1648788165982,
+        "stop" : 1648788176407,
+        "duration" : 10425
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-100.0.4896.60", "100.0.4896.60" ]
+    }, {
+      "name" : "Logged into Application with valid credentials in mobile View",
+      "uid" : "1b14c4a140a42a3d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648788024826,
+        "stop" : 1648788067578,
+        "duration" : 42752
       },
       "flaky" : false,
       "newFailed" : false,
@@ -88,14 +139,14 @@
       "retriesStatusChange" : false,
       "parameters" : [ "chrome-100.0.4896.60", "100.0.4896.60" ]
     }, {
-      "name" : "Verify  and validate content of language 'English (Canada)'",
-      "uid" : "c84727bf2c2a09f1",
+      "name" : "Logout from application in mobile View",
+      "uid" : "2b4d5c35d68cb3f9",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
-        "start" : 1648787432281,
-        "stop" : 1648787440581,
-        "duration" : 8300
+        "start" : 1648788090712,
+        "stop" : 1648788101653,
+        "duration" : 10941
       },
       "flaky" : false,
       "newFailed" : false,
@@ -105,71 +156,54 @@
       "retriesStatusChange" : false,
       "parameters" : [ "chrome-100.0.4896.60", "100.0.4896.60" ]
     }, {
-      "name" : "Verify  and validate content of language 'Español (Argentina)'",
-      "uid" : "595b9c7aa8c4c346",
+      "name" : "Logged into Application with valid credentials in mobile View",
+      "uid" : "4119dca050605e08",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
-        "start" : 1648787440592,
-        "stop" : 1648787448699,
-        "duration" : 8107
+        "start" : 1648788101788,
+        "stop" : 1648788142256,
+        "duration" : 40468
       },
       "flaky" : false,
       "newFailed" : false,
       "newPassed" : false,
       "newBroken" : false,
-      "retriesCount" : 0,
+      "retriesCount" : 1,
       "retriesStatusChange" : false,
       "parameters" : [ "chrome-100.0.4896.60", "100.0.4896.60" ]
     }, {
-      "name" : "Verify  and validate content of language 'Français (Canada)'",
-      "uid" : "a78ef96ac05f11f1",
+      "name" : "Logged into Application with valid credentials in web View",
+      "uid" : "582ebfd1c28cae59",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
-        "start" : 1648787422865,
-        "stop" : 1648787432262,
-        "duration" : 9397
+        "start" : 1648787976176,
+        "stop" : 1648787991075,
+        "duration" : 14899
       },
       "flaky" : false,
       "newFailed" : false,
       "newPassed" : false,
       "newBroken" : false,
-      "retriesCount" : 0,
+      "retriesCount" : 1,
       "retriesStatusChange" : false,
       "parameters" : [ "chrome-100.0.4896.60", "100.0.4896.60" ]
     }, {
-      "name" : "Verify  and validate content of language 'Español (Chile)'",
-      "uid" : "e834ebfc2c9a708c",
+      "name" : "Logout from application in web View",
+      "uid" : "1b5c2d512e9f0bed",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
-        "start" : 1648787448715,
-        "stop" : 1648787456439,
-        "duration" : 7724
+        "start" : 1648788016909,
+        "stop" : 1648788024791,
+        "duration" : 7882
       },
       "flaky" : false,
       "newFailed" : false,
       "newPassed" : false,
       "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-100.0.4896.60", "100.0.4896.60" ]
-    }, {
-      "name" : "Verify  and validate content of language 'Español (México)'",
-      "uid" : "64e8c627d4fb9dd6",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1648787464857,
-        "stop" : 1648787473077,
-        "duration" : 8220
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
+      "retriesCount" : 1,
       "retriesStatusChange" : false,
       "parameters" : [ "chrome-100.0.4896.60", "100.0.4896.60" ]
     } ],
