@@ -1,0 +1,330 @@
+{
+  "uid" : "955d707bee19e7d0",
+  "name" : "Verify and validate Viator application content in - 'Português (Brasil)'",
+  "fullName" : "Validate Content in Welcome page - Localization.Verify and validate Viator application content in - 'Português (Brasil)'",
+  "historyId" : "bdc2d19ec1759b09b18be957e092ec6e",
+  "time" : {
+    "start" : 1648788921813,
+    "stop" : 1648788930832,
+    "duration" : 9019
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "current Window set to  : 1200, 900.",
+      "time" : {
+        "start" : 1648788922506,
+        "stop" : 1648788922506,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Performed click operation on EN",
+      "time" : {
+        "start" : 1648788925932,
+        "stop" : 1648788925932,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Performed click operation on Português (Brasil)",
+      "time" : {
+        "start" : 1648788928833,
+        "stop" : 1648788928833,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "inner text of the DOM-element is : Encontre atividades incríveis.\n                    Quando e onde quiser.",
+      "time" : {
+        "start" : 1648788929767,
+        "stop" : 1648788929767,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "inner text of the DOM-element is : Porquê reservar com a Viator?",
+      "time" : {
+        "start" : 1648788929866,
+        "stop" : 1648788929866,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "inner text of the DOM-element is : Enorme flexibilidade",
+      "time" : {
+        "start" : 1648788930013,
+        "stop" : 1648788930013,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "inner text of the DOM-element is : O controlo é seu, com cancelamento gratuito e opções de pagamento para satisfazer qualquer plano ou orçamento.",
+      "time" : {
+        "start" : 1648788930122,
+        "stop" : 1648788930122,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "inner text of the DOM-element is : Experiências memoráveis",
+      "time" : {
+        "start" : 1648788930244,
+        "stop" : 1648788930244,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "inner text of the DOM-element is : Procure e reserve excursões e atividades tão incríveis que vai querer contar aos seus amigos.",
+      "time" : {
+        "start" : 1648788930351,
+        "stop" : 1648788930351,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "inner text of the DOM-element is : Qualidade acima de tudo",
+      "time" : {
+        "start" : 1648788930492,
+        "stop" : 1648788930492,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "inner text of the DOM-element is : Padrões de qualidade elevados. Milhões de avaliações. Uma empresa Tripadvisor.",
+      "time" : {
+        "start" : 1648788930594,
+        "stop" : 1648788930594,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "inner text of the DOM-element is : Serviço de apoio ao cliente premiado",
+      "time" : {
+        "start" : 1648788930709,
+        "stop" : 1648788930709,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "inner text of the DOM-element is : Novo preço? Mudança de planos? Sem problema. Estamos aqui para ajudar, 24 horas por dia, 7 dias por semana.",
+      "time" : {
+        "start" : 1648788930831,
+        "stop" : 1648788930831,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "42778b6249b2a6d3",
+      "name" : "Screenshot",
+      "source" : "42778b6249b2a6d3.png",
+      "type" : "image/png",
+      "size" : 879705
+    }, {
+      "uid" : "b028087e1587f065",
+      "name" : "Screenshot",
+      "source" : "b028087e1587f065.png",
+      "type" : "image/png",
+      "size" : 1374818
+    }, {
+      "uid" : "a7380b762927d92d",
+      "name" : "Screenshot",
+      "source" : "a7380b762927d92d.png",
+      "type" : "image/png",
+      "size" : 1099428
+    }, {
+      "uid" : "26d66df903b09546",
+      "name" : "Screenshot",
+      "source" : "26d66df903b09546.png",
+      "type" : "image/png",
+      "size" : 945785
+    }, {
+      "uid" : "456d064e6c8da087",
+      "name" : "Execution video",
+      "source" : "456d064e6c8da087.mp4",
+      "type" : "video/mp4",
+      "size" : 158399
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 13,
+    "attachmentsCount" : 5,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "bannerText",
+    "value" : "Porquê reservar com a Viator?"
+  }, {
+    "name" : "des",
+    "value" : "Novo preço? Mudança de planos? Sem problema. Estamos aqui para ajudar, 24 horas por dia, 7 dias por semana."
+  }, {
+    "name" : "des",
+    "value" : "O controlo é seu, com cancelamento gratuito e opções de pagamento para satisfazer qualquer plano ou orçamento."
+  }, {
+    "name" : "des",
+    "value" : "Padrões de qualidade elevados. Milhões de avaliações. Uma empresa Tripadvisor."
+  }, {
+    "name" : "des",
+    "value" : "Procure e reserve excursões e atividades tão incríveis que vai querer contar aos seus amigos."
+  }, {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "searchTitle",
+    "value" : "Encontre atividades incríveis.Quando e onde quiser."
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "title",
+    "value" : "Enorme flexibilidade"
+  }, {
+    "name" : "title",
+    "value" : "Experiências memoráveis"
+  }, {
+    "name" : "title",
+    "value" : "Qualidade acima de tudo"
+  }, {
+    "name" : "title",
+    "value" : "Serviço de apoio ao cliente premiado"
+  }, {
+    "name" : "suite",
+    "value" : "Validate Content in Welcome page - Localization"
+  }, {
+    "name" : "testClass",
+    "value" : "Validate Content in Welcome page - Localization"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify and validate Viator application content in - 'Português (Brasil)'"
+  }, {
+    "name" : "package",
+    "value" : "Validate Content in Welcome page - Localization"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-100.0.4896.60"
+  }, {
+    "name" : "browserVersion",
+    "value" : "100.0.4896.60"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "955d707bee19e7d0.json",
+  "parameterValues" : [ "chrome-100.0.4896.60", "100.0.4896.60" ]
+}

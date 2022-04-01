@@ -1,105 +1,173 @@
 {
   "uid" : "b1a8273437954620fa374b796ffaacdd",
   "children" : [ {
-    "name" : "Logged into Application with valid credentials in web View",
-    "uid" : "582ebfd1c28cae59",
+    "name" : "Verify and validate Viator application content in - 'English'",
+    "uid" : "9f22da4b3d9fc256",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1648787976176,
-      "stop" : 1648787991075,
-      "duration" : 14899
+      "start" : 1648788839732,
+      "stop" : 1648788853949,
+      "duration" : 14217
     },
     "flaky" : false,
     "newFailed" : false,
     "newPassed" : false,
     "newBroken" : false,
-    "retriesCount" : 1,
+    "retriesCount" : 0,
     "retriesStatusChange" : false,
     "parameters" : [ "chrome-100.0.4896.60", "100.0.4896.60" ]
   }, {
-    "name" : "Search and Select Tour plan in web View",
-    "uid" : "1ac9fbe42c5466fb",
+    "name" : "Verify and validate Viator application content in - 'Français (Canada)'",
+    "uid" : "47da91b8483dfe36",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1648787991087,
-      "stop" : 1648788016894,
-      "duration" : 25807
+      "start" : 1648788853987,
+      "stop" : 1648788862114,
+      "duration" : 8127
     },
     "flaky" : false,
     "newFailed" : false,
     "newPassed" : false,
     "newBroken" : false,
-    "retriesCount" : 1,
+    "retriesCount" : 0,
     "retriesStatusChange" : false,
     "parameters" : [ "chrome-100.0.4896.60", "100.0.4896.60" ]
   }, {
-    "name" : "Logout from application in web View",
-    "uid" : "1b5c2d512e9f0bed",
+    "name" : "Verify and validate Viator application content in - 'English (Canada)'",
+    "uid" : "78ddde7ff6d6b78b",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1648788016909,
-      "stop" : 1648788024791,
-      "duration" : 7882
+      "start" : 1648788862135,
+      "stop" : 1648788869998,
+      "duration" : 7863
     },
     "flaky" : false,
     "newFailed" : false,
     "newPassed" : false,
     "newBroken" : false,
-    "retriesCount" : 1,
+    "retriesCount" : 0,
     "retriesStatusChange" : false,
     "parameters" : [ "chrome-100.0.4896.60", "100.0.4896.60" ]
   }, {
-    "name" : "Logged into Application with valid credentials in mobile View",
-    "uid" : "4119dca050605e08",
+    "name" : "Verify and validate Viator application content in - 'Español (Argentina)'",
+    "uid" : "29d099f37d9212f5",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1648788101788,
-      "stop" : 1648788142256,
-      "duration" : 40468
+      "start" : 1648788870012,
+      "stop" : 1648788878146,
+      "duration" : 8134
     },
     "flaky" : false,
     "newFailed" : false,
     "newPassed" : false,
     "newBroken" : false,
-    "retriesCount" : 1,
+    "retriesCount" : 0,
     "retriesStatusChange" : false,
     "parameters" : [ "chrome-100.0.4896.60", "100.0.4896.60" ]
   }, {
-    "name" : "Search and Select Tour plan in mobile View",
-    "uid" : "1faaf32a477ace07",
+    "name" : "Verify and validate Viator application content in - 'Español (Chile)'",
+    "uid" : "f50971bb9a7d954a",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1648788142271,
-      "stop" : 1648788165967,
-      "duration" : 23696
+      "start" : 1648788878162,
+      "stop" : 1648788885488,
+      "duration" : 7326
     },
     "flaky" : false,
     "newFailed" : false,
     "newPassed" : false,
     "newBroken" : false,
-    "retriesCount" : 1,
+    "retriesCount" : 0,
     "retriesStatusChange" : false,
     "parameters" : [ "chrome-100.0.4896.60", "100.0.4896.60" ]
   }, {
-    "name" : "Logout from application in mobile View",
-    "uid" : "cc339aed59b96d5d",
+    "name" : "Verify and validate Viator application content in - 'Español (Colombia)'",
+    "uid" : "a4b62d4e8deef6ea",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1648788165982,
-      "stop" : 1648788176407,
-      "duration" : 10425
+      "start" : 1648788885497,
+      "stop" : 1648788893122,
+      "duration" : 7625
     },
     "flaky" : false,
     "newFailed" : false,
     "newPassed" : false,
     "newBroken" : false,
-    "retriesCount" : 1,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-100.0.4896.60", "100.0.4896.60" ]
+  }, {
+    "name" : "Verify and validate Viator application content in - 'Español (México)'",
+    "uid" : "ea3407756fe927ff",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1648788893132,
+      "stop" : 1648788901326,
+      "duration" : 8194
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-100.0.4896.60", "100.0.4896.60" ]
+  }, {
+    "name" : "Verify and validate Viator application content in - 'Español (Perú)'",
+    "uid" : "67cd09e1cf5a8306",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1648788901335,
+      "stop" : 1648788910227,
+      "duration" : 8892
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-100.0.4896.60", "100.0.4896.60" ]
+  }, {
+    "name" : "Verify and validate Viator application content in - 'Español (Venezuela)'",
+    "uid" : "957fd8668125f54c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1648788910241,
+      "stop" : 1648788921804,
+      "duration" : 11563
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
+    "retriesStatusChange" : false,
+    "parameters" : [ "chrome-100.0.4896.60", "100.0.4896.60" ]
+  }, {
+    "name" : "Verify and validate Viator application content in - 'Português (Brasil)'",
+    "uid" : "955d707bee19e7d0",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1648788921813,
+      "stop" : 1648788930832,
+      "duration" : 9019
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "newPassed" : false,
+    "newBroken" : false,
+    "retriesCount" : 0,
     "retriesStatusChange" : false,
     "parameters" : [ "chrome-100.0.4896.60", "100.0.4896.60" ]
   } ],
