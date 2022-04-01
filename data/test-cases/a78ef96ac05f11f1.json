@@ -1,0 +1,330 @@
+{
+  "uid" : "a78ef96ac05f11f1",
+  "name" : "Verify  and validate content of language 'Français (Canada)'",
+  "fullName" : "Validate Content in Welcome page - Localization.Verify  and validate content of language 'Français (Canada)'",
+  "historyId" : "87a8e788c1da41360f9a459d23dca17e",
+  "time" : {
+    "start" : 1648787422865,
+    "stop" : 1648787432262,
+    "duration" : 9397
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "current Window set to  : 1200, 900.",
+      "time" : {
+        "start" : 1648787423424,
+        "stop" : 1648787423424,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Performed click operation on EN",
+      "time" : {
+        "start" : 1648787427310,
+        "stop" : 1648787427310,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Performed click operation on Français (Canada)",
+      "time" : {
+        "start" : 1648787429888,
+        "stop" : 1648787429888,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "inner text of the DOM-element is : Trouvez des activités passionnantes.\n                    N'importe où, n'importe quand.",
+      "time" : {
+        "start" : 1648787431009,
+        "stop" : 1648787431009,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "inner text of the DOM-element is : Pourquoi réserver avec Viator ?",
+      "time" : {
+        "start" : 1648787431268,
+        "stop" : 1648787431268,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "inner text of the DOM-element is : Une flexibilité totale",
+      "time" : {
+        "start" : 1648787431413,
+        "stop" : 1648787431413,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "inner text of the DOM-element is : Vous avez le contrôle grâce à l'annulation gratuite et aux différentes options de paiement qui s'adaptent à vos projets et à votre budget.",
+      "time" : {
+        "start" : 1648787431559,
+        "stop" : 1648787431559,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "inner text of the DOM-element is : Des expériences inoubliables",
+      "time" : {
+        "start" : 1648787431672,
+        "stop" : 1648787431672,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "inner text of the DOM-element is : Découvrez et réservez des visites et activités tellement géniales que vous aurez envie d'en parler à tout le monde.",
+      "time" : {
+        "start" : 1648787431812,
+        "stop" : 1648787431812,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "inner text of the DOM-element is : La qualité avant tout",
+      "time" : {
+        "start" : 1648787431936,
+        "stop" : 1648787431936,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "inner text of the DOM-element is : Des normes de qualité élevées. Des millions d'avis. Une société Tripadvisor.",
+      "time" : {
+        "start" : 1648787432053,
+        "stop" : 1648787432053,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "inner text of the DOM-element is : Un service client récompensé",
+      "time" : {
+        "start" : 1648787432160,
+        "stop" : 1648787432160,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "inner text of the DOM-element is : Un nouveau prix ? Un nouveau programme? Aucun problème. Nous sommes à votre disposition, 24 h/24 et 7 j/7.",
+      "time" : {
+        "start" : 1648787432261,
+        "stop" : 1648787432261,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "73a92646414cb7d0",
+      "name" : "Screenshot",
+      "source" : "73a92646414cb7d0.png",
+      "type" : "image/png",
+      "size" : 1321255
+    }, {
+      "uid" : "739c29118e45dc51",
+      "name" : "Screenshot",
+      "source" : "739c29118e45dc51.png",
+      "type" : "image/png",
+      "size" : 1374818
+    }, {
+      "uid" : "4e259b78450ec173",
+      "name" : "Screenshot",
+      "source" : "4e259b78450ec173.png",
+      "type" : "image/png",
+      "size" : 1096039
+    }, {
+      "uid" : "21255061a9e97cab",
+      "name" : "Screenshot",
+      "source" : "21255061a9e97cab.png",
+      "type" : "image/png",
+      "size" : 934498
+    }, {
+      "uid" : "e06f4449ffe6edc5",
+      "name" : "Execution video",
+      "source" : "e06f4449ffe6edc5.mp4",
+      "type" : "video/mp4",
+      "size" : 158629
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 13,
+    "attachmentsCount" : 5,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "bannerText",
+    "value" : "Pourquoi réserver avec Viator ?"
+  }, {
+    "name" : "des",
+    "value" : "Des normes de qualité élevées. Des millions d'avis. Une société Tripadvisor."
+  }, {
+    "name" : "des",
+    "value" : "Découvrez et réservez des visites et activités tellement géniales que vous aurez envie d'en parler à tout le monde."
+  }, {
+    "name" : "des",
+    "value" : "Un nouveau prix ? Un nouveau programme? Aucun problème. Nous sommes à votre disposition, 24 h/24 et 7 j/7."
+  }, {
+    "name" : "des",
+    "value" : "Vous avez le contrôle grâce à l'annulation gratuite et aux différentes options de paiement qui s'adaptent à vos projets et à votre budget."
+  }, {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "searchTitle",
+    "value" : "Trouvez des activités passionnantes.Nimporte où, nimporte quand."
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "title",
+    "value" : "Des expériences inoubliables"
+  }, {
+    "name" : "title",
+    "value" : "La qualité avant tout"
+  }, {
+    "name" : "title",
+    "value" : "Un service client récompensé"
+  }, {
+    "name" : "title",
+    "value" : "Une flexibilité totale"
+  }, {
+    "name" : "suite",
+    "value" : "Validate Content in Welcome page - Localization"
+  }, {
+    "name" : "testClass",
+    "value" : "Validate Content in Welcome page - Localization"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify  and validate content of language 'Français (Canada)'"
+  }, {
+    "name" : "package",
+    "value" : "Validate Content in Welcome page - Localization"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-100.0.4896.60"
+  }, {
+    "name" : "browserVersion",
+    "value" : "100.0.4896.60"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a78ef96ac05f11f1.json",
+  "parameterValues" : [ "chrome-100.0.4896.60", "100.0.4896.60" ]
+}
