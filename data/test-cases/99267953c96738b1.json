@@ -1,0 +1,224 @@
+{
+  "uid" : "99267953c96738b1",
+  "name" : "Logout from application in web View",
+  "fullName" : "Search and select Tour  - test suite.Logout from application in web View",
+  "historyId" : "3f5cc00b3cb93e38c8623988fcab80da",
+  "time" : {
+    "start" : 1648789944902,
+    "stop" : 1648789952140,
+    "duration" : 7238
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Scroll element into viewport",
+      "time" : {
+        "start" : 1648789945179,
+        "stop" : 1648789945179,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Browser paused 1000",
+      "time" : {
+        "start" : 1648789948181,
+        "stop" : 1648789948181,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Wating for element to be displayed given timeout: 30000.",
+      "time" : {
+        "start" : 1648789948265,
+        "stop" : 1648789948265,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Mouse movd to  given locator",
+      "time" : {
+        "start" : 1648789948475,
+        "stop" : 1648789948475,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Wating for element to be clickable given timeout: 30000.",
+      "time" : {
+        "start" : 1648789948571,
+        "stop" : 1648789948571,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Performed click operation on Log out",
+      "time" : {
+        "start" : 1648789948713,
+        "stop" : 1648789948713,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Wating for element to be displayed given timeout: 30000.",
+      "time" : {
+        "start" : 1648789949021,
+        "stop" : 1648789949021,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Performed click operation on .cls-header-logo{fill:#186B6D;}\n                    a Tripadvisor company",
+      "time" : {
+        "start" : 1648789952140,
+        "stop" : 1648789952140,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "68bd25898b8ed6cf",
+      "name" : "Screenshot",
+      "source" : "68bd25898b8ed6cf.png",
+      "type" : "image/png",
+      "size" : 411573
+    }, {
+      "uid" : "293d95ccc6cef571",
+      "name" : "Screenshot",
+      "source" : "293d95ccc6cef571.png",
+      "type" : "image/png",
+      "size" : 419839
+    }, {
+      "uid" : "b8f75ae0c1c3728",
+      "name" : "Execution video",
+      "source" : "b8f75ae0c1c3728.mp4",
+      "type" : "video/mp4",
+      "size" : 104486
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 8,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "severity",
+    "value" : "minor"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Search and select Tour  - test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "Search and select Tour  - test suite"
+  }, {
+    "name" : "testMethod",
+    "value" : "Logout from application in web View"
+  }, {
+    "name" : "package",
+    "value" : "Search and select Tour  - test suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-100.0.4896.60"
+  }, {
+    "name" : "browserVersion",
+    "value" : "100.0.4896.60"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "minor",
+    "retries" : [ {
+      "uid" : "3d1bab11f6bf4910",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648789908008,
+        "stop" : 1648789914015,
+        "duration" : 6007
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "99267953c96738b1.json",
+  "parameterValues" : [ "chrome-100.0.4896.60", "100.0.4896.60" ]
+}

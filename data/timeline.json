@@ -4,115 +4,166 @@
     "name" : "0-0",
     "children" : [ {
       "name" : "Logout from application in web View",
-      "uid" : "e1ab75e2ec85ac61",
+      "uid" : "99267953c96738b1",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
-        "start" : 1648789174951,
-        "stop" : 1648789181398,
-        "duration" : 6447
+        "start" : 1648789944902,
+        "stop" : 1648789952140,
+        "duration" : 7238
       },
       "flaky" : false,
       "newFailed" : false,
       "newPassed" : false,
       "newBroken" : false,
       "retriesCount" : 1,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-100.0.4896.60", "100.0.4896.60" ]
-    }, {
-      "name" : "Search and Select Tour plan in mobile View",
-      "uid" : "8406807efb8bab3d",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1648789282390,
-        "stop" : 1648789305612,
-        "duration" : 23222
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 1,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-100.0.4896.60", "100.0.4896.60" ]
-    }, {
-      "name" : "Logged into Application with valid credentials in mobile View",
-      "uid" : "ef6a7199ba26df29",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1648789247227,
-        "stop" : 1648789282384,
-        "duration" : 35157
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 1,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-100.0.4896.60", "100.0.4896.60" ]
-    }, {
-      "name" : "Logged into Application with valid credentials in mobile View",
-      "uid" : "29d04c86ecec1224",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1648789181421,
-        "stop" : 1648789217758,
-        "duration" : 36337
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-100.0.4896.60", "100.0.4896.60" ]
-    }, {
-      "name" : "Logout from application in mobile View",
-      "uid" : "d8dc6f78fed18504",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1648789305616,
-        "stop" : 1648789315413,
-        "duration" : 9797
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 1,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-100.0.4896.60", "100.0.4896.60" ]
-    }, {
-      "name" : "Logout from application in mobile View",
-      "uid" : "ffebd1a45b03671f",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1648789238471,
-        "stop" : 1648789247204,
-        "duration" : 8733
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
       "retriesStatusChange" : false,
       "parameters" : [ "chrome-100.0.4896.60", "100.0.4896.60" ]
     }, {
       "name" : "Logged into Application with valid credentials in web View",
-      "uid" : "90e5eb02e4da6715",
+      "uid" : "c116adf9b7b0556e",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
-        "start" : 1648789094628,
-        "stop" : 1648789114102,
-        "duration" : 19474
+        "start" : 1648789914066,
+        "stop" : 1648789924114,
+        "duration" : 10048
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-100.0.4896.60", "100.0.4896.60" ]
+    }, {
+      "name" : "Search and Select Tour plan in web View",
+      "uid" : "eb9a94bcdc25e759",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648789924118,
+        "stop" : 1648789944898,
+        "duration" : 20780
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-100.0.4896.60", "100.0.4896.60" ]
+    }, {
+      "name" : "Logout from application in mobile View",
+      "uid" : "2829dd29c8487f67",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648790072770,
+        "stop" : 1648790082155,
+        "duration" : 9385
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-100.0.4896.60", "100.0.4896.60" ]
+    }, {
+      "name" : "Logged into Application with valid credentials in web View",
+      "uid" : "41771bd74d77d191",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648789873242,
+        "stop" : 1648789887749,
+        "duration" : 14507
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-100.0.4896.60", "100.0.4896.60" ]
+    }, {
+      "name" : "Logout from application in mobile View",
+      "uid" : "3b59378186007da9",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648790004151,
+        "stop" : 1648790013840,
+        "duration" : 9689
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-100.0.4896.60", "100.0.4896.60" ]
+    }, {
+      "name" : "Search and Select Tour plan in mobile View",
+      "uid" : "2344c7dcaba011b2",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648790050824,
+        "stop" : 1648790072768,
+        "duration" : 21944
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 1,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-100.0.4896.60", "100.0.4896.60" ]
+    }, {
+      "name" : "Search and Select Tour plan in mobile View",
+      "uid" : "1354c36e4a4c00e7",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1648789987436,
+        "stop" : 1648790004146,
+        "duration" : 16710
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-100.0.4896.60", "100.0.4896.60" ]
+    }, {
+      "name" : "Logged into Application with valid credentials in mobile View",
+      "uid" : "a97d88e9bc00f91b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648789952163,
+        "stop" : 1648789987433,
+        "duration" : 35270
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-100.0.4896.60", "100.0.4896.60" ]
+    }, {
+      "name" : "Search and Select Tour plan in web View",
+      "uid" : "576dac760e715a89",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1648789887755,
+        "stop" : 1648789907998,
+        "duration" : 20243
       },
       "flaky" : false,
       "newFailed" : false,
@@ -123,13 +174,13 @@
       "parameters" : [ "chrome-100.0.4896.60", "100.0.4896.60" ]
     }, {
       "name" : "Logout from application in web View",
-      "uid" : "803b2922e03b6ea8",
+      "uid" : "3d1bab11f6bf4910",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
-        "start" : 1648789133606,
-        "stop" : 1648789140633,
-        "duration" : 7027
+        "start" : 1648789908008,
+        "stop" : 1648789914015,
+        "duration" : 6007
       },
       "flaky" : false,
       "newFailed" : false,
@@ -139,71 +190,20 @@
       "retriesStatusChange" : false,
       "parameters" : [ "chrome-100.0.4896.60", "100.0.4896.60" ]
     }, {
-      "name" : "Search and Select Tour plan in web View",
-      "uid" : "9949789414d210ca",
+      "name" : "Logged into Application with valid credentials in mobile View",
+      "uid" : "7d071b38beb77d7f",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
-        "start" : 1648789154044,
-        "stop" : 1648789174946,
-        "duration" : 20902
+        "start" : 1648790013881,
+        "stop" : 1648790050821,
+        "duration" : 36940
       },
       "flaky" : false,
       "newFailed" : false,
       "newPassed" : false,
       "newBroken" : false,
       "retriesCount" : 1,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-100.0.4896.60", "100.0.4896.60" ]
-    }, {
-      "name" : "Search and Select Tour plan in mobile View",
-      "uid" : "c2caa64a711a4b49",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1648789217765,
-        "stop" : 1648789238468,
-        "duration" : 20703
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-100.0.4896.60", "100.0.4896.60" ]
-    }, {
-      "name" : "Logged into Application with valid credentials in web View",
-      "uid" : "ec7aefffd389fc9e",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1648789140652,
-        "stop" : 1648789154036,
-        "duration" : 13384
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 1,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-100.0.4896.60", "100.0.4896.60" ]
-    }, {
-      "name" : "Search and Select Tour plan in web View",
-      "uid" : "8a109dd7bc8a8c7a",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1648789114118,
-        "stop" : 1648789133600,
-        "duration" : 19482
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
       "retriesStatusChange" : false,
       "parameters" : [ "chrome-100.0.4896.60", "100.0.4896.60" ]
     } ],
