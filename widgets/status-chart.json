@@ -1,61 +1,61 @@
 [ {
-  "uid" : "def96d3fae47194a",
+  "uid" : "d5af9f2629ee920a",
   "name" : "Logged into Application with valid credentials in web View",
   "time" : {
-    "start" : 1648836412561,
-    "stop" : 1648836423546,
-    "duration" : 10985
+    "start" : 1648879892526,
+    "stop" : 1648879903900,
+    "duration" : 11374
   },
   "status" : "passed",
   "severity" : "blocker"
 }, {
-  "uid" : "f6e26b041b13862b",
-  "name" : "Search and Select Tour plan in web View",
-  "time" : {
-    "start" : 1648836423552,
-    "stop" : 1648836445311,
-    "duration" : 21759
-  },
-  "status" : "passed",
-  "severity" : "critical"
-}, {
-  "uid" : "39771822d046b85f",
+  "uid" : "64063a942423a89",
   "name" : "Logout from application in web View",
   "time" : {
-    "start" : 1648836445329,
-    "stop" : 1648836452586,
-    "duration" : 7257
+    "start" : 1648879926924,
+    "stop" : 1648879934186,
+    "duration" : 7262
   },
   "status" : "passed",
   "severity" : "minor"
 }, {
-  "uid" : "261638ecd0abf168",
+  "uid" : "c0fd41fd103fd0dd",
+  "name" : "Logout from application in mobile View",
+  "time" : {
+    "start" : 1648880058363,
+    "stop" : 1648880067856,
+    "duration" : 9493
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "24be52949ee20fc6",
   "name" : "Logged into Application with valid credentials in mobile View",
   "time" : {
-    "start" : 1648836515581,
-    "stop" : 1648836550019,
-    "duration" : 34438
+    "start" : 1648879999696,
+    "stop" : 1648880034460,
+    "duration" : 34764
   },
   "status" : "passed",
   "severity" : "blocker"
 }, {
-  "uid" : "6463933363244119",
+  "uid" : "af98354a9755758",
   "name" : "Search and Select Tour plan in mobile View",
   "time" : {
-    "start" : 1648836550023,
-    "stop" : 1648836572751,
-    "duration" : 22728
+    "start" : 1648880034466,
+    "stop" : 1648880058361,
+    "duration" : 23895
   },
   "status" : "passed",
   "severity" : "critical"
 }, {
-  "uid" : "c65afa752f9a9bf8",
-  "name" : "Logout from application in mobile View",
+  "uid" : "51aede4e2f8b2ad4",
+  "name" : "Search and Select Tour plan in web View",
   "time" : {
-    "start" : 1648836572755,
-    "stop" : 1648836581976,
-    "duration" : 9221
+    "start" : 1648879903903,
+    "stop" : 1648879926914,
+    "duration" : 23011
   },
   "status" : "passed",
-  "severity" : "minor"
+  "severity" : "critical"
 } ]
