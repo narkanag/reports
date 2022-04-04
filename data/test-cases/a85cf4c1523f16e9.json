@@ -1,0 +1,318 @@
+{
+  "uid" : "a85cf4c1523f16e9",
+  "name" : "Verify and validate Viator application content in'English'",
+  "fullName" : "Validate Content in Welcome page - Localization.Verify and validate Viator application content in'English'",
+  "historyId" : "4360f3cf3a5c7bd21f4251595be4d928",
+  "time" : {
+    "start" : 1649055138630,
+    "stop" : 1649055145591,
+    "duration" : 6961
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "current Window set to  : 1200, 900.",
+      "time" : {
+        "start" : 1649055138842,
+        "stop" : 1649055138842,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Performed click operation on EN",
+      "time" : {
+        "start" : 1649055141758,
+        "stop" : 1649055141758,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Performed click operation on English",
+      "time" : {
+        "start" : 1649055143908,
+        "stop" : 1649055143908,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "inner text of the DOM-element is : Find amazing things to do.\n                    Anytime, anywhere.",
+      "time" : {
+        "start" : 1649055144652,
+        "stop" : 1649055144652,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "inner text of the DOM-element is : Why book with Viator?",
+      "time" : {
+        "start" : 1649055144740,
+        "stop" : 1649055144740,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "inner text of the DOM-element is : Ultimate flexibility",
+      "time" : {
+        "start" : 1649055144867,
+        "stop" : 1649055144867,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "inner text of the DOM-element is : You’re in control, with free cancellation and payment options to satisfy any plan or budget.",
+      "time" : {
+        "start" : 1649055144958,
+        "stop" : 1649055144958,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "inner text of the DOM-element is : Memorable experiences",
+      "time" : {
+        "start" : 1649055145056,
+        "stop" : 1649055145056,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "inner text of the DOM-element is : Browse and book tours and activities so incredible, you’ll want to tell your friends.",
+      "time" : {
+        "start" : 1649055145146,
+        "stop" : 1649055145146,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "inner text of the DOM-element is : Quality at our core",
+      "time" : {
+        "start" : 1649055145292,
+        "stop" : 1649055145292,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "inner text of the DOM-element is : High quality standards. Millions of reviews. A Tripadvisor company.",
+      "time" : {
+        "start" : 1649055145393,
+        "stop" : 1649055145393,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "inner text of the DOM-element is : Award-winning support",
+      "time" : {
+        "start" : 1649055145482,
+        "stop" : 1649055145482,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "inner text of the DOM-element is : New price? New plan? No problem. We’re here to help, 24/7.",
+      "time" : {
+        "start" : 1649055145589,
+        "stop" : 1649055145589,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "9eb669ada5e40772",
+      "name" : "Screenshot",
+      "source" : "9eb669ada5e40772.png",
+      "type" : "image/png",
+      "size" : 1375087
+    }, {
+      "uid" : "5fa3c03279b70a0f",
+      "name" : "Screenshot",
+      "source" : "5fa3c03279b70a0f.png",
+      "type" : "image/png",
+      "size" : 1374818
+    }, {
+      "uid" : "fbbc786b67e1ceb7",
+      "name" : "Execution video",
+      "source" : "fbbc786b67e1ceb7.mp4",
+      "type" : "video/mp4",
+      "size" : 144444
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 13,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "bannerText",
+    "value" : "Why book with Viator?"
+  }, {
+    "name" : "des",
+    "value" : "Browse and book tours and activities so incredible, you’ll want to tell your friends."
+  }, {
+    "name" : "des",
+    "value" : "High quality standards. Millions of reviews. A Tripadvisor company."
+  }, {
+    "name" : "des",
+    "value" : "New price? New plan? No problem. We’re here to help, 24/7."
+  }, {
+    "name" : "des",
+    "value" : "You’re in control, with free cancellation and payment options to satisfy any plan or budget."
+  }, {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "searchTitle",
+    "value" : "Find amazing things to do.Anytime, anywhere."
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "title",
+    "value" : "Award-winning support"
+  }, {
+    "name" : "title",
+    "value" : "Memorable experiences"
+  }, {
+    "name" : "title",
+    "value" : "Quality at our core"
+  }, {
+    "name" : "title",
+    "value" : "Ultimate flexibility"
+  }, {
+    "name" : "suite",
+    "value" : "Validate Content in Welcome page - Localization"
+  }, {
+    "name" : "testClass",
+    "value" : "Validate Content in Welcome page - Localization"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify and validate Viator application content in'English'"
+  }, {
+    "name" : "package",
+    "value" : "Validate Content in Welcome page - Localization"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-100.0.4896.60"
+  }, {
+    "name" : "browserVersion",
+    "value" : "100.0.4896.60"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a85cf4c1523f16e9.json",
+  "parameterValues" : [ "chrome-100.0.4896.60", "100.0.4896.60" ]
+}
