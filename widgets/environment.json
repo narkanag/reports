@@ -8,6 +8,6 @@
   "values" : [ "Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz" ],
   "name" : "CPU"
 }, {
-  "values" : [ "fv-az459-791" ],
+  "values" : [ "fv-az324-827" ],
   "name" : "HOSTNAME"
 } ]
