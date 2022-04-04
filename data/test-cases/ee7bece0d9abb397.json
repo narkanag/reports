@@ -1,0 +1,383 @@
+{
+  "uid" : "ee7bece0d9abb397",
+  "name" : "Search and Select Tour plan in web View",
+  "fullName" : "Search and select Tour  - test suite.Search and Select Tour plan in web View",
+  "historyId" : "f54f727ceec3377ef064054cedb6629e",
+  "time" : {
+    "start" : 1649062163295,
+    "stop" : 1649062186452,
+    "duration" : 23157
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Performed click operation on Las Vegas, London, Paris...",
+      "time" : {
+        "start" : 1649062164027,
+        "stop" : 1649062164027,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Enered text \"paris\" in text field",
+      "time" : {
+        "start" : 1649062165223,
+        "stop" : 1649062165223,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Performed click operation on Paris, Île-de-France",
+      "time" : {
+        "start" : 1649062169459,
+        "stop" : 1649062169459,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Browser paused 5000",
+      "time" : {
+        "start" : 1649062174463,
+        "stop" : 1649062174463,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Performed click operation on Louvre Museum Timed Entrance Access with Audio Guide and Cruise Ticket",
+      "time" : {
+        "start" : 1649062174932,
+        "stop" : 1649062174932,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Scroll element into viewport",
+      "time" : {
+        "start" : 1649062177699,
+        "stop" : 1649062177699,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Performed click operation on Check Availability",
+      "time" : {
+        "start" : 1649062180197,
+        "stop" : 1649062180197,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Performed click operation on 4\n                    ₹3,420",
+      "time" : {
+        "start" : 1649062180669,
+        "stop" : 1649062180669,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Wating for element to be displayed given timeout: 30000.",
+      "time" : {
+        "start" : 1649062180988,
+        "stop" : 1649062180988,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Performed click operation on Apply",
+      "time" : {
+        "start" : 1649062181499,
+        "stop" : 1649062181499,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Wating for element to be displayed given timeout: 30000.",
+      "time" : {
+        "start" : 1649062185375,
+        "stop" : 1649062185375,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Performed click operation on 12:00 PM",
+      "time" : {
+        "start" : 1649062185721,
+        "stop" : 1649062185721,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Wating for element to be displayed given timeout: 30000.",
+      "time" : {
+        "start" : 1649062185920,
+        "stop" : 1649062185920,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Performed click operation on Book Now",
+      "time" : {
+        "start" : 1649062186239,
+        "stop" : 1649062186239,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "losed current window",
+      "time" : {
+        "start" : 1649062186422,
+        "stop" : 1649062186422,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "f9e9ecd41d568f05",
+      "name" : "Screenshot",
+      "source" : "f9e9ecd41d568f05.png",
+      "type" : "image/png",
+      "size" : 1371669
+    }, {
+      "uid" : "4c2dacf4cadba3e1",
+      "name" : "Screenshot",
+      "source" : "4c2dacf4cadba3e1.png",
+      "type" : "image/png",
+      "size" : 1286534
+    }, {
+      "uid" : "6fafc17d4c5057dd",
+      "name" : "Screenshot",
+      "source" : "6fafc17d4c5057dd.png",
+      "type" : "image/png",
+      "size" : 1286538
+    }, {
+      "uid" : "55811a717cccc99",
+      "name" : "Screenshot",
+      "source" : "55811a717cccc99.png",
+      "type" : "image/png",
+      "size" : 1365305
+    }, {
+      "uid" : "269faad0d37ecc99",
+      "name" : "Screenshot",
+      "source" : "269faad0d37ecc99.png",
+      "type" : "image/png",
+      "size" : 415606
+    }, {
+      "uid" : "c00efd16ae3a34bb",
+      "name" : "Screenshot",
+      "source" : "c00efd16ae3a34bb.png",
+      "type" : "image/png",
+      "size" : 415726
+    }, {
+      "uid" : "f9119d15c322ae7c",
+      "name" : "Screenshot",
+      "source" : "f9119d15c322ae7c.png",
+      "type" : "image/png",
+      "size" : 60977
+    }, {
+      "uid" : "735b25fdfa9c693",
+      "name" : "Screenshot",
+      "source" : "735b25fdfa9c693.png",
+      "type" : "image/png",
+      "size" : 55430
+    }, {
+      "uid" : "88ccbc8fd2ccfeb7",
+      "name" : "Screenshot",
+      "source" : "88ccbc8fd2ccfeb7.png",
+      "type" : "image/png",
+      "size" : 32623
+    }, {
+      "uid" : "ff507afe6bd08c27",
+      "name" : "Screenshot",
+      "source" : "ff507afe6bd08c27.png",
+      "type" : "image/png",
+      "size" : 41372
+    }, {
+      "uid" : "72abb836deb1560f",
+      "name" : "Screenshot",
+      "source" : "72abb836deb1560f.png",
+      "type" : "image/png",
+      "size" : 37327
+    }, {
+      "uid" : "ba80ba87f7320ff2",
+      "name" : "Execution video",
+      "source" : "ba80ba87f7320ff2.mp4",
+      "type" : "video/mp4",
+      "size" : 379143
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 15,
+    "attachmentsCount" : 12,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Search and select Tour  - test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "Search and select Tour  - test suite"
+  }, {
+    "name" : "testMethod",
+    "value" : "Search and Select Tour plan in web View"
+  }, {
+    "name" : "package",
+    "value" : "Search and select Tour  - test suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-100.0.4896.60"
+  }, {
+    "name" : "browserVersion",
+    "value" : "100.0.4896.60"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ {
+      "uid" : "11512c5a0261789f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649062119904,
+        "stop" : 1649062143343,
+        "duration" : 23439
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ee7bece0d9abb397.json",
+  "parameterValues" : [ "chrome-100.0.4896.60", "100.0.4896.60" ]
+}
