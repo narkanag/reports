@@ -1,0 +1,116 @@
+{
+  "uid" : "1820512b70e85bb",
+  "name" : "Verify and validate Viator application content in'English'",
+  "fullName" : "Validate Content in Welcome page - Localization.Verify and validate Viator application content in'English'",
+  "historyId" : "f5cd4cce2c2433940e19050422f7b0ab",
+  "time" : {
+    "start" : 1649191209700,
+    "stop" : 1649191228376,
+    "duration" : 18676
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "javascript error: Cannot read properties of null (reading 'setAttribute')\n                  (Session info: headless chrome=100.0.4896.75)",
+  "statusTrace" : "javascript error: Cannot read properties of null (reading 'setAttribute')\n                  (Session info: headless chrome=100.0.4896.75)\n                    at Utility.waitAndFindElement (/home/vsts/work/1/s/lib/utils/Utility.js:115:17)\n                    at Utility.click (/home/vsts/work/1/s/lib/utils/Utility.js:119:30)\n                    at Header.switchToCountryByLanguage (/home/vsts/work/1/s/lib/web_automation/viator/pages/header.js:25:15)\n                    at Context.<anonymous> (/home/vsts/work/1/s/lib/web_automation/viator/test/localization.spec.js:31:24)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "javascript error: Cannot read properties of null (reading 'setAttribute')\n                  (Session info: headless chrome=100.0.4896.75)",
+    "statusTrace" : "javascript error: Cannot read properties of null (reading 'setAttribute')\n                  (Session info: headless chrome=100.0.4896.75)\n                    at Utility.waitAndFindElement (/home/vsts/work/1/s/lib/utils/Utility.js:115:17)\n                    at Utility.click (/home/vsts/work/1/s/lib/utils/Utility.js:119:30)\n                    at Header.switchToCountryByLanguage (/home/vsts/work/1/s/lib/web_automation/viator/pages/header.js:25:15)\n                    at Context.<anonymous> (/home/vsts/work/1/s/lib/web_automation/viator/test/localization.spec.js:31:24)",
+    "steps" : [ {
+      "name" : "Performed click operation on ",
+      "time" : {
+        "start" : 1649191222975,
+        "stop" : 1649191222975,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "121c83c02eaccc80",
+      "name" : "Screenshot",
+      "source" : "121c83c02eaccc80.png",
+      "type" : "image/png",
+      "size" : 382773
+    }, {
+      "uid" : "2981b6df1bbf036",
+      "name" : "Screenshot",
+      "source" : "2981b6df1bbf036.png",
+      "type" : "image/png",
+      "size" : 382773
+    }, {
+      "uid" : "81df809f261bbb68",
+      "name" : "Execution video",
+      "source" : "81df809f261bbb68.mp4",
+      "type" : "video/mp4",
+      "size" : 41338
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-2"
+  }, {
+    "name" : "suite",
+    "value" : "Validate Content in Welcome page - Localization"
+  }, {
+    "name" : "testClass",
+    "value" : "Validate Content in Welcome page - Localization"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify and validate Viator application content in'English'"
+  }, {
+    "name" : "package",
+    "value" : "Validate Content in Welcome page - Localization"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-100.0.4896.75"
+  }, {
+    "name" : "browserVersion",
+    "value" : "100.0.4896.75"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "1820512b70e85bb.json",
+  "parameterValues" : [ "chrome-100.0.4896.75", "100.0.4896.75" ]
+}

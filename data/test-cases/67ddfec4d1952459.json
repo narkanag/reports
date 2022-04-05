@@ -1,0 +1,128 @@
+{
+  "uid" : "67ddfec4d1952459",
+  "name" : "Verify and validate Viator application content in'Português (Brasil)'",
+  "fullName" : "Validate Content in Welcome page - Localization.Verify and validate Viator application content in'Português (Brasil)'",
+  "historyId" : "3d309a2c9693b7c88ec8fe32eca1d573",
+  "time" : {
+    "start" : 1649191228387,
+    "stop" : 1649191246888,
+    "duration" : 18501
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "javascript error: Cannot read properties of null (reading 'setAttribute')\n                  (Session info: headless chrome=100.0.4896.75)",
+  "statusTrace" : "javascript error: Cannot read properties of null (reading 'setAttribute')\n                  (Session info: headless chrome=100.0.4896.75)\n                    at Utility.waitAndFindElement (/home/vsts/work/1/s/lib/utils/Utility.js:115:17)\n                    at Utility.click (/home/vsts/work/1/s/lib/utils/Utility.js:119:30)\n                    at Header.switchToCountryByLanguage (/home/vsts/work/1/s/lib/web_automation/viator/pages/header.js:25:15)\n                    at Context.<anonymous> (/home/vsts/work/1/s/lib/web_automation/viator/test/localization.spec.js:31:24)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "javascript error: Cannot read properties of null (reading 'setAttribute')\n                  (Session info: headless chrome=100.0.4896.75)",
+    "statusTrace" : "javascript error: Cannot read properties of null (reading 'setAttribute')\n                  (Session info: headless chrome=100.0.4896.75)\n                    at Utility.waitAndFindElement (/home/vsts/work/1/s/lib/utils/Utility.js:115:17)\n                    at Utility.click (/home/vsts/work/1/s/lib/utils/Utility.js:119:30)\n                    at Header.switchToCountryByLanguage (/home/vsts/work/1/s/lib/web_automation/viator/pages/header.js:25:15)\n                    at Context.<anonymous> (/home/vsts/work/1/s/lib/web_automation/viator/test/localization.spec.js:31:24)",
+    "steps" : [ {
+      "name" : "Performed click operation on ",
+      "time" : {
+        "start" : 1649191241500,
+        "stop" : 1649191241500,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "fb6cf3e46200ead5",
+      "name" : "Screenshot",
+      "source" : "fb6cf3e46200ead5.png",
+      "type" : "image/png",
+      "size" : 382773
+    }, {
+      "uid" : "9bc6236d106e30a0",
+      "name" : "Screenshot",
+      "source" : "9bc6236d106e30a0.png",
+      "type" : "image/png",
+      "size" : 455981
+    }, {
+      "uid" : "11d116f32f54a561",
+      "name" : "Screenshot",
+      "source" : "11d116f32f54a561.png",
+      "type" : "image/png",
+      "size" : 382773
+    }, {
+      "uid" : "6d0bb52b65c0a1ff",
+      "name" : "Screenshot",
+      "source" : "6d0bb52b65c0a1ff.png",
+      "type" : "image/png",
+      "size" : 382773
+    }, {
+      "uid" : "138a70edb939bd6a",
+      "name" : "Execution video",
+      "source" : "138a70edb939bd6a.mp4",
+      "type" : "video/mp4",
+      "size" : 41338
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "attachmentsCount" : 5,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-2"
+  }, {
+    "name" : "suite",
+    "value" : "Validate Content in Welcome page - Localization"
+  }, {
+    "name" : "testClass",
+    "value" : "Validate Content in Welcome page - Localization"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify and validate Viator application content in'Português (Brasil)'"
+  }, {
+    "name" : "package",
+    "value" : "Validate Content in Welcome page - Localization"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-100.0.4896.75"
+  }, {
+    "name" : "browserVersion",
+    "value" : "100.0.4896.75"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "67ddfec4d1952459.json",
+  "parameterValues" : [ "chrome-100.0.4896.75", "100.0.4896.75" ]
+}
