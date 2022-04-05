@@ -1,81 +1,81 @@
 [ {
-  "uid" : "ab06d1a41775735",
-  "name" : "Verify and validate Viator application content in'English'",
-  "time" : {
-    "start" : 1649183665065,
-    "stop" : 1649183675431,
-    "duration" : 10366
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "3bc38cd959088ea2",
-  "name" : "Logged into Application with valid credentials in mobile View",
-  "time" : {
-    "start" : 1649183746814,
-    "stop" : 1649183781616,
-    "duration" : 34802
-  },
-  "status" : "passed",
-  "severity" : "blocker"
-}, {
-  "uid" : "a10efdfc9c4cceaf",
-  "name" : "Search and Select Tour plan in web View",
-  "time" : {
-    "start" : 1649183695528,
-    "stop" : 1649183731001,
-    "duration" : 35473
-  },
-  "status" : "broken",
-  "severity" : "critical"
-}, {
-  "uid" : "3388e735c13679ac",
-  "name" : "Logout from application in web View",
-  "time" : {
-    "start" : 1649183731006,
-    "stop" : 1649183746796,
-    "duration" : 15790
-  },
-  "status" : "passed",
-  "severity" : "minor"
-}, {
-  "uid" : "97b462cf2c5e5f21",
-  "name" : "Logged into Application with valid credentials in web View",
-  "time" : {
-    "start" : 1649183665060,
-    "stop" : 1649183695525,
-    "duration" : 30465
-  },
-  "status" : "passed",
-  "severity" : "blocker"
-}, {
-  "uid" : "de2654142fea4ad1",
-  "name" : "Logout from application in mobile View",
-  "time" : {
-    "start" : 1649183801431,
-    "stop" : 1649183810539,
-    "duration" : 9108
-  },
-  "status" : "passed",
-  "severity" : "minor"
-}, {
-  "uid" : "4773086bd2a4adb4",
+  "uid" : "25c7759fb37791bf",
   "name" : "Search and Select Tour plan in mobile View",
   "time" : {
-    "start" : 1649183781621,
-    "stop" : 1649183801428,
-    "duration" : 19807
+    "start" : 1649184752767,
+    "stop" : 1649184774140,
+    "duration" : 21373
   },
   "status" : "passed",
   "severity" : "critical"
 }, {
-  "uid" : "939dc9c39d47587a",
-  "name" : "Verify and validate Viator application content in'Português (Brasil)'",
+  "uid" : "43ea4e2cc900da3a",
+  "name" : "Verify and validate Viator application content in'English'",
   "time" : {
-    "start" : 1649183675448,
-    "stop" : 1649183682923,
-    "duration" : 7475
+    "start" : 1649184666076,
+    "stop" : 1649184679835,
+    "duration" : 13759
   },
   "status" : "passed",
   "severity" : "normal"
+}, {
+  "uid" : "c053514648d74a81",
+  "name" : "Logout from application in web View",
+  "time" : {
+    "start" : 1649184705383,
+    "stop" : 1649184713178,
+    "duration" : 7795
+  },
+  "status" : "passed",
+  "severity" : "minor"
+}, {
+  "uid" : "8806ac9dc0e374ec",
+  "name" : "Logged into Application with valid credentials in web View",
+  "time" : {
+    "start" : 1649184666090,
+    "stop" : 1649184685131,
+    "duration" : 19041
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "c0288ac16bda6a3c",
+  "name" : "Verify and validate Viator application content in'Português (Brasil)'",
+  "time" : {
+    "start" : 1649184679884,
+    "stop" : 1649184690043,
+    "duration" : 10159
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f724f5a55c18a5b1",
+  "name" : "Search and Select Tour plan in web View",
+  "time" : {
+    "start" : 1649184685139,
+    "stop" : 1649184705380,
+    "duration" : 20241
+  },
+  "status" : "passed",
+  "severity" : "critical"
+}, {
+  "uid" : "8dc0fb0da34b45b9",
+  "name" : "Logged into Application with valid credentials in mobile View",
+  "time" : {
+    "start" : 1649184713320,
+    "stop" : 1649184752760,
+    "duration" : 39440
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "7c5bfc6d664e19f3",
+  "name" : "Logout from application in mobile View",
+  "time" : {
+    "start" : 1649184774145,
+    "stop" : 1649184782925,
+    "duration" : 8780
+  },
+  "status" : "passed",
+  "severity" : "minor"
 } ]
