@@ -1,0 +1,170 @@
+{
+  "uid" : "50cee9552240977a",
+  "name" : "Verify and validate Viator application content in'English'",
+  "fullName" : "Validate Content in Welcome page - Localization.Verify and validate Viator application content in'English'",
+  "historyId" : "f5cd4cce2c2433940e19050422f7b0ab",
+  "time" : {
+    "start" : 1649144121236,
+    "stop" : 1649144132129,
+    "duration" : 10893
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "expected 'Find amazing things to do.Anytime, an…' to equal 'Find amazing things to do.Anytime, An…'      \n                      actual expected\n                      \n                      'Find amazing things to do.Anytime, anywhereAnywhere.'\n                      ",
+  "statusTrace" : "AssertionError: expected 'Find amazing things to do.Anytime, an…' to equal 'Find amazing things to do.Anytime, An…'\n                    at Home.verifySearchTitle (/home/vsts/work/1/s/lib/web_automation/viator/pages/home.js:31:44)\n                    at Context.<anonymous> (/home/vsts/work/1/s/lib/web_automation/viator/test/localization.spec.js:32:22)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "expected 'Find amazing things to do.Anytime, an…' to equal 'Find amazing things to do.Anytime, An…'      \n                      actual expected\n                      \n                      'Find amazing things to do.Anytime, anywhereAnywhere.'\n                      ",
+    "statusTrace" : "AssertionError: expected 'Find amazing things to do.Anytime, an…' to equal 'Find amazing things to do.Anytime, An…'\n                    at Home.verifySearchTitle (/home/vsts/work/1/s/lib/web_automation/viator/pages/home.js:31:44)\n                    at Context.<anonymous> (/home/vsts/work/1/s/lib/web_automation/viator/test/localization.spec.js:32:22)",
+    "steps" : [ {
+      "name" : "current Window set to  : 1200, 900.",
+      "time" : {
+        "start" : 1649144121457,
+        "stop" : 1649144121457,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Performed click operation on EN",
+      "time" : {
+        "start" : 1649144126970,
+        "stop" : 1649144126970,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Performed click operation on English",
+      "time" : {
+        "start" : 1649144129888,
+        "stop" : 1649144129888,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "inner text of the DOM-element is : Find amazing things to do.\n                    Anytime, anywhere.",
+      "time" : {
+        "start" : 1649144130925,
+        "stop" : 1649144130925,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "7f02f56cbf7a8788",
+      "name" : "Screenshot",
+      "source" : "7f02f56cbf7a8788.png",
+      "type" : "image/png",
+      "size" : 1096838
+    }, {
+      "uid" : "cfb267cc30c9afe2",
+      "name" : "Screenshot",
+      "source" : "cfb267cc30c9afe2.png",
+      "type" : "image/png",
+      "size" : 1374818
+    }, {
+      "uid" : "54f497172d520c6e",
+      "name" : "Screenshot",
+      "source" : "54f497172d520c6e.png",
+      "type" : "image/png",
+      "size" : 1325778
+    }, {
+      "uid" : "6500ca59df9814c5",
+      "name" : "Execution video",
+      "source" : "6500ca59df9814c5.mp4",
+      "type" : "video/mp4",
+      "size" : 144193
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 4,
+    "attachmentsCount" : 4,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "searchTitle",
+    "value" : "Find amazing things to do.Anytime, anywhere."
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Validate Content in Welcome page - Localization"
+  }, {
+    "name" : "testClass",
+    "value" : "Validate Content in Welcome page - Localization"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify and validate Viator application content in'English'"
+  }, {
+    "name" : "package",
+    "value" : "Validate Content in Welcome page - Localization"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-100.0.4896.75"
+  }, {
+    "name" : "browserVersion",
+    "value" : "100.0.4896.75"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "50cee9552240977a.json",
+  "parameterValues" : [ "chrome-100.0.4896.75", "100.0.4896.75" ]
+}

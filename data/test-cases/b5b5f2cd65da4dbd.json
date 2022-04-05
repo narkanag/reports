@@ -1,0 +1,179 @@
+{
+  "uid" : "b5b5f2cd65da4dbd",
+  "name" : "Logged into Application with valid credentials in mobile View",
+  "fullName" : "Search and select Tour  - test suite.Logged into Application with valid credentials in mobile View",
+  "historyId" : "860b868588a659dc4d9f2fad19f5e263",
+  "time" : {
+    "start" : 1649144211391,
+    "stop" : 1649144298039,
+    "duration" : 86648
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "expected false to equal true      \n                      actual expected\n                      \n                      falsetrue\n                      ",
+  "statusTrace" : "AssertionError: expected false to equal true\n                    at Login.isAt (/home/vsts/work/1/s/lib/web_automation/viator/pages/login.js:36:66)\n                    at Context.<anonymous> (/home/vsts/work/1/s/lib/web_automation/viator/test/e2e_bookTour.spec.js:37:23)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "expected false to equal true      \n                      actual expected\n                      \n                      falsetrue\n                      ",
+    "statusTrace" : "AssertionError: expected false to equal true\n                    at Login.isAt (/home/vsts/work/1/s/lib/web_automation/viator/pages/login.js:36:66)\n                    at Context.<anonymous> (/home/vsts/work/1/s/lib/web_automation/viator/test/e2e_bookTour.spec.js:37:23)",
+    "steps" : [ {
+      "name" : "current Window set to  : 600, 900.",
+      "time" : {
+        "start" : 1649144212741,
+        "stop" : 1649144212741,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Performed click operation on ",
+      "time" : {
+        "start" : 1649144215585,
+        "stop" : 1649144215585,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Wating for element to be displayed given timeout: 30000.",
+      "time" : {
+        "start" : 1649144226084,
+        "stop" : 1649144226084,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Performed click operation on Profile",
+      "time" : {
+        "start" : 1649144237529,
+        "stop" : 1649144237529,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "e7e28651829f8859",
+      "name" : "Screenshot",
+      "source" : "e7e28651829f8859.png",
+      "type" : "image/png",
+      "size" : 1374822
+    }, {
+      "uid" : "59120b5ac4cb3e81",
+      "name" : "Screenshot",
+      "source" : "59120b5ac4cb3e81.png",
+      "type" : "image/png",
+      "size" : 1374822
+    }, {
+      "uid" : "d1c792a9f933a6d7",
+      "name" : "Screenshot",
+      "source" : "d1c792a9f933a6d7.png",
+      "type" : "image/png",
+      "size" : 423918
+    }, {
+      "uid" : "298e2e7f087ff65a",
+      "name" : "Screenshot",
+      "source" : "298e2e7f087ff65a.png",
+      "type" : "image/png",
+      "size" : 381410
+    }, {
+      "uid" : "89c0e16fe0f65b23",
+      "name" : "Screenshot",
+      "source" : "89c0e16fe0f65b23.png",
+      "type" : "image/png",
+      "size" : 42566
+    }, {
+      "uid" : "18bd7d9f2ee4d0f2",
+      "name" : "Screenshot",
+      "source" : "18bd7d9f2ee4d0f2.png",
+      "type" : "image/png",
+      "size" : 42566
+    }, {
+      "uid" : "a7d23d6da434bb99",
+      "name" : "Execution video",
+      "source" : "a7d23d6da434bb99.mp4",
+      "type" : "video/mp4",
+      "size" : 79117
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 4,
+    "attachmentsCount" : 7,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Search and select Tour  - test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "Search and select Tour  - test suite"
+  }, {
+    "name" : "testMethod",
+    "value" : "Logged into Application with valid credentials in mobile View"
+  }, {
+    "name" : "package",
+    "value" : "Search and select Tour  - test suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-100.0.4896.75"
+  }, {
+    "name" : "browserVersion",
+    "value" : "100.0.4896.75"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b5b5f2cd65da4dbd.json",
+  "parameterValues" : [ "chrome-100.0.4896.75", "100.0.4896.75" ]
+}
