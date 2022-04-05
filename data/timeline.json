@@ -3,31 +3,14 @@
   "children" : [ {
     "name" : "0-0",
     "children" : [ {
-      "name" : "Logout from application in web View",
-      "uid" : "ba1997e6b1a40935",
+      "name" : "Search and Select Tour plan in mobile View",
+      "uid" : "4773086bd2a4adb4",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
-        "start" : 1649182727160,
-        "stop" : 1649182744884,
-        "duration" : 17724
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 1,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-100.0.4896.75", "100.0.4896.75" ]
-    }, {
-      "name" : "Search and Select Tour plan in mobile View",
-      "uid" : "2eab9e9fb91a15a7",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "broken",
-      "time" : {
-        "start" : 1649182783425,
-        "stop" : 1649182799859,
-        "duration" : 16434
+        "start" : 1649183781621,
+        "stop" : 1649183801428,
+        "duration" : 19807
       },
       "flaky" : false,
       "newFailed" : false,
@@ -38,30 +21,13 @@
       "parameters" : [ "chrome-100.0.4896.75", "100.0.4896.75" ]
     }, {
       "name" : "Search and Select Tour plan in web View",
-      "uid" : "8e03c88de8751820",
+      "uid" : "a10efdfc9c4cceaf",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "broken",
       "time" : {
-        "start" : 1649182690793,
-        "stop" : 1649182727155,
-        "duration" : 36362
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 1,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-100.0.4896.75", "100.0.4896.75" ]
-    }, {
-      "name" : "Logged into Application with valid credentials in web View",
-      "uid" : "dd04bc1d1e3d533b",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1649182575967,
-        "stop" : 1649182609109,
-        "duration" : 33142
+        "start" : 1649183695528,
+        "stop" : 1649183731001,
+        "duration" : 35473
       },
       "flaky" : false,
       "newFailed" : false,
@@ -71,14 +37,31 @@
       "retriesStatusChange" : false,
       "parameters" : [ "chrome-100.0.4896.75", "100.0.4896.75" ]
     }, {
-      "name" : "Logout from application in mobile View",
-      "uid" : "180af60861cd472c",
+      "name" : "Logged into Application with valid credentials in mobile View",
+      "uid" : "3bc38cd959088ea2",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
-        "start" : 1649182799868,
-        "stop" : 1649182808630,
-        "duration" : 8762
+        "start" : 1649183746814,
+        "stop" : 1649183781616,
+        "duration" : 34802
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-100.0.4896.75", "100.0.4896.75" ]
+    }, {
+      "name" : "Logged into Application with valid credentials in web View",
+      "uid" : "97b462cf2c5e5f21",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649183665060,
+        "stop" : 1649183695525,
+        "duration" : 30465
       },
       "flaky" : false,
       "newFailed" : false,
@@ -89,64 +72,13 @@
       "parameters" : [ "chrome-100.0.4896.75", "100.0.4896.75" ]
     }, {
       "name" : "Logout from application in web View",
-      "uid" : "20759e3cf917e404",
+      "uid" : "3388e735c13679ac",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
-        "start" : 1649182645946,
-        "stop" : 1649182662188,
-        "duration" : 16242
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-100.0.4896.75", "100.0.4896.75" ]
-    }, {
-      "name" : "Search and Select Tour plan in mobile View",
-      "uid" : "cd71d56fdc8f743a",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1649182844245,
-        "stop" : 1649182868470,
-        "duration" : 24225
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 1,
-      "retriesStatusChange" : true,
-      "parameters" : [ "chrome-100.0.4896.75", "100.0.4896.75" ]
-    }, {
-      "name" : "Logged into Application with valid credentials in web View",
-      "uid" : "54f16044dc178cb2",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1649182662214,
-        "stop" : 1649182690789,
-        "duration" : 28575
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 1,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-100.0.4896.75", "100.0.4896.75" ]
-    }, {
-      "name" : "Logged into Application with valid credentials in mobile View",
-      "uid" : "3508ea37d73256fc",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1649182744913,
-        "stop" : 1649182783417,
-        "duration" : 38504
+        "start" : 1649183731006,
+        "stop" : 1649183746796,
+        "duration" : 15790
       },
       "flaky" : false,
       "newFailed" : false,
@@ -157,53 +89,19 @@
       "parameters" : [ "chrome-100.0.4896.75", "100.0.4896.75" ]
     }, {
       "name" : "Logout from application in mobile View",
-      "uid" : "b44ba1290f8cf4f9",
+      "uid" : "de2654142fea4ad1",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
-        "start" : 1649182868472,
-        "stop" : 1649182877362,
-        "duration" : 8890
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 1,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-100.0.4896.75", "100.0.4896.75" ]
-    }, {
-      "name" : "Search and Select Tour plan in web View",
-      "uid" : "a7d683bface9d1af",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "broken",
-      "time" : {
-        "start" : 1649182609114,
-        "stop" : 1649182645924,
-        "duration" : 36810
+        "start" : 1649183801431,
+        "stop" : 1649183810539,
+        "duration" : 9108
       },
       "flaky" : false,
       "newFailed" : false,
       "newPassed" : false,
       "newBroken" : false,
       "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-100.0.4896.75", "100.0.4896.75" ]
-    }, {
-      "name" : "Logged into Application with valid credentials in mobile View",
-      "uid" : "986989640a33225a",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1649182808656,
-        "stop" : 1649182844239,
-        "duration" : 35583
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 1,
       "retriesStatusChange" : false,
       "parameters" : [ "chrome-100.0.4896.75", "100.0.4896.75" ]
     } ],
@@ -212,13 +110,13 @@
     "name" : "0-1",
     "children" : [ {
       "name" : "Verify and validate Viator application content in'Português (Brasil)'",
-      "uid" : "6387d0fc37249cd5",
+      "uid" : "939dc9c39d47587a",
       "parentUid" : "27fa874cadc1574e37a07abb440963bd",
       "status" : "passed",
       "time" : {
-        "start" : 1649182588799,
-        "stop" : 1649182599044,
-        "duration" : 10245
+        "start" : 1649183675448,
+        "stop" : 1649183682923,
+        "duration" : 7475
       },
       "flaky" : false,
       "newFailed" : false,
@@ -229,13 +127,13 @@
       "parameters" : [ "chrome-100.0.4896.75", "100.0.4896.75" ]
     }, {
       "name" : "Verify and validate Viator application content in'English'",
-      "uid" : "a08f30450fcb2143",
+      "uid" : "ab06d1a41775735",
       "parentUid" : "27fa874cadc1574e37a07abb440963bd",
       "status" : "passed",
       "time" : {
-        "start" : 1649182575976,
-        "stop" : 1649182588745,
-        "duration" : 12769
+        "start" : 1649183665065,
+        "stop" : 1649183675431,
+        "duration" : 10366
       },
       "flaky" : false,
       "newFailed" : false,

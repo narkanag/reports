@@ -1,0 +1,188 @@
+{
+  "uid" : "a10efdfc9c4cceaf",
+  "name" : "Search and Select Tour plan in web View",
+  "fullName" : "Search and select Tour  - test suite.Search and Select Tour plan in web View",
+  "historyId" : "bce083429d4f91d41ecfe094977057c1",
+  "time" : {
+    "start" : 1649183695528,
+    "stop" : 1649183731001,
+    "duration" : 35473
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "javascript error: Cannot read properties of null (reading 'setAttribute')\n                  (Session info: headless chrome=100.0.4896.75)",
+  "statusTrace" : "javascript error: Cannot read properties of null (reading 'setAttribute')\n                  (Session info: headless chrome=100.0.4896.75)\n                    at Utility.waitAndFindElement (/home/vsts/work/1/s/lib/utils/Utility.js:115:17)\n                    at Utility.click (/home/vsts/work/1/s/lib/utils/Utility.js:119:30)\n                    at SearchResults.selectTour (/home/vsts/work/1/s/lib/web_automation/viator/pages/searchResults.js:42:19)\n                    at Context.<anonymous> (/home/vsts/work/1/s/lib/web_automation/viator/test/e2e_bookTour.spec.js:49:31)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "javascript error: Cannot read properties of null (reading 'setAttribute')\n                  (Session info: headless chrome=100.0.4896.75)",
+    "statusTrace" : "javascript error: Cannot read properties of null (reading 'setAttribute')\n                  (Session info: headless chrome=100.0.4896.75)\n                    at Utility.waitAndFindElement (/home/vsts/work/1/s/lib/utils/Utility.js:115:17)\n                    at Utility.click (/home/vsts/work/1/s/lib/utils/Utility.js:119:30)\n                    at SearchResults.selectTour (/home/vsts/work/1/s/lib/web_automation/viator/pages/searchResults.js:42:19)\n                    at Context.<anonymous> (/home/vsts/work/1/s/lib/web_automation/viator/test/e2e_bookTour.spec.js:49:31)",
+    "steps" : [ {
+      "name" : "Performed click operation on Las Vegas, London, Paris …",
+      "time" : {
+        "start" : 1649183716218,
+        "stop" : 1649183716218,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Enered text \"london\" in text field",
+      "time" : {
+        "start" : 1649183717416,
+        "stop" : 1649183717416,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Performed click operation on London, England",
+      "time" : {
+        "start" : 1649183720667,
+        "stop" : 1649183720667,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Browser paused 5000",
+      "time" : {
+        "start" : 1649183725670,
+        "stop" : 1649183725670,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "eac0c8be6e54ed48",
+      "name" : "Screenshot",
+      "source" : "eac0c8be6e54ed48.png",
+      "type" : "image/png",
+      "size" : 932223
+    }, {
+      "uid" : "4a808fc4ae1dd3b8",
+      "name" : "Screenshot",
+      "source" : "4a808fc4ae1dd3b8.png",
+      "type" : "image/png",
+      "size" : 927658
+    }, {
+      "uid" : "d0ec3da939b98427",
+      "name" : "Screenshot",
+      "source" : "d0ec3da939b98427.png",
+      "type" : "image/png",
+      "size" : 928161
+    }, {
+      "uid" : "7851fadb554ffd8",
+      "name" : "Screenshot",
+      "source" : "7851fadb554ffd8.png",
+      "type" : "image/png",
+      "size" : 927657
+    }, {
+      "uid" : "a75449256d5936e",
+      "name" : "Screenshot",
+      "source" : "a75449256d5936e.png",
+      "type" : "image/png",
+      "size" : 430231
+    }, {
+      "uid" : "67fb2fa581dcb484",
+      "name" : "Screenshot",
+      "source" : "67fb2fa581dcb484.png",
+      "type" : "image/png",
+      "size" : 432014
+    }, {
+      "uid" : "f20ba625d254396a",
+      "name" : "Execution video",
+      "source" : "f20ba625d254396a.mp4",
+      "type" : "video/mp4",
+      "size" : 172471
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 4,
+    "attachmentsCount" : 7,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Search and select Tour  - test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "Search and select Tour  - test suite"
+  }, {
+    "name" : "testMethod",
+    "value" : "Search and Select Tour plan in web View"
+  }, {
+    "name" : "package",
+    "value" : "Search and select Tour  - test suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-100.0.4896.75"
+  }, {
+    "name" : "browserVersion",
+    "value" : "100.0.4896.75"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "a10efdfc9c4cceaf.json",
+  "parameterValues" : [ "chrome-100.0.4896.75", "100.0.4896.75" ]
+}
