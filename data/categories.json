@@ -1,30 +1,30 @@
 {
   "uid" : "4b4757e66a1912dae1a509f688f20b0f",
   "children" : [ {
-    "name" : "Product defects",
+    "name" : "Test defects",
     "children" : [ {
-      "name" : "expected 'Find amazing things to do.Anytime, an…' to equal 'Find amazing things to do.Anytime, An…'      \n                      actual expected\n                      \n                      'Find amazing things to do.Anytime, anywhereAnywhere.'\n                      ",
+      "name" : "javascript error: Cannot read properties of null (reading 'setAttribute')\n                  (Session info: headless chrome=100.0.4896.75)",
       "children" : [ {
-        "name" : "Verify and validate Viator application content in'English'",
-        "uid" : "4dc4d5ef6b259d1f",
-        "parentUid" : "5d4fd6119e27cc9aa216ccd5e7a47db2",
-        "status" : "failed",
+        "name" : "Search and Select Tour plan in web View",
+        "uid" : "81e87d747d1ec8bf",
+        "parentUid" : "e28c449cb8695858180bc433c2b16df3",
+        "status" : "broken",
         "time" : {
-          "start" : 1649153564132,
-          "stop" : 1649153574157,
-          "duration" : 10025
+          "start" : 1649181698690,
+          "stop" : 1649181734501,
+          "duration" : 35811
         },
         "flaky" : false,
         "newFailed" : false,
         "newPassed" : false,
         "newBroken" : false,
-        "retriesCount" : 0,
+        "retriesCount" : 1,
         "retriesStatusChange" : false,
         "parameters" : [ "chrome-100.0.4896.75", "100.0.4896.75" ]
       } ],
-      "uid" : "5d4fd6119e27cc9aa216ccd5e7a47db2"
+      "uid" : "e28c449cb8695858180bc433c2b16df3"
     } ],
-    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
   } ],
   "name" : "categories"
 }

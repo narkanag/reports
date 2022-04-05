@@ -1,0 +1,197 @@
+{
+  "uid" : "81e87d747d1ec8bf",
+  "name" : "Search and Select Tour plan in web View",
+  "fullName" : "Search and select Tour  - test suite.Search and Select Tour plan in web View",
+  "historyId" : "bce083429d4f91d41ecfe094977057c1",
+  "time" : {
+    "start" : 1649181698690,
+    "stop" : 1649181734501,
+    "duration" : 35811
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "javascript error: Cannot read properties of null (reading 'setAttribute')\n                  (Session info: headless chrome=100.0.4896.75)",
+  "statusTrace" : "javascript error: Cannot read properties of null (reading 'setAttribute')\n                  (Session info: headless chrome=100.0.4896.75)\n                    at Utility.waitAndFindElement (/home/vsts/work/1/s/lib/utils/Utility.js:115:17)\n                    at Utility.click (/home/vsts/work/1/s/lib/utils/Utility.js:119:30)\n                    at SearchResults.selectTour (/home/vsts/work/1/s/lib/web_automation/viator/pages/searchResults.js:42:19)\n                    at Context.<anonymous> (/home/vsts/work/1/s/lib/web_automation/viator/test/e2e_bookTour.spec.js:49:31)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "javascript error: Cannot read properties of null (reading 'setAttribute')\n                  (Session info: headless chrome=100.0.4896.75)",
+    "statusTrace" : "javascript error: Cannot read properties of null (reading 'setAttribute')\n                  (Session info: headless chrome=100.0.4896.75)\n                    at Utility.waitAndFindElement (/home/vsts/work/1/s/lib/utils/Utility.js:115:17)\n                    at Utility.click (/home/vsts/work/1/s/lib/utils/Utility.js:119:30)\n                    at SearchResults.selectTour (/home/vsts/work/1/s/lib/web_automation/viator/pages/searchResults.js:42:19)\n                    at Context.<anonymous> (/home/vsts/work/1/s/lib/web_automation/viator/test/e2e_bookTour.spec.js:49:31)",
+    "steps" : [ {
+      "name" : "Performed click operation on Las Vegas, London, Paris …",
+      "time" : {
+        "start" : 1649181719647,
+        "stop" : 1649181719647,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Enered text \"paris\" in text field",
+      "time" : {
+        "start" : 1649181720440,
+        "stop" : 1649181720440,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Performed click operation on Paris, Frankreich",
+      "time" : {
+        "start" : 1649181724172,
+        "stop" : 1649181724172,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Browser paused 5000",
+      "time" : {
+        "start" : 1649181729178,
+        "stop" : 1649181729178,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "e62ca0b9753dd9ee",
+      "name" : "Screenshot",
+      "source" : "e62ca0b9753dd9ee.png",
+      "type" : "image/png",
+      "size" : 932223
+    }, {
+      "uid" : "f1a1308af79c3120",
+      "name" : "Screenshot",
+      "source" : "f1a1308af79c3120.png",
+      "type" : "image/png",
+      "size" : 873429
+    }, {
+      "uid" : "478cdeb4ccb10d92",
+      "name" : "Screenshot",
+      "source" : "478cdeb4ccb10d92.png",
+      "type" : "image/png",
+      "size" : 927641
+    }, {
+      "uid" : "9190abbbdecf0133",
+      "name" : "Screenshot",
+      "source" : "9190abbbdecf0133.png",
+      "type" : "image/png",
+      "size" : 860109
+    }, {
+      "uid" : "ee330e2ea934ccb6",
+      "name" : "Screenshot",
+      "source" : "ee330e2ea934ccb6.png",
+      "type" : "image/png",
+      "size" : 409818
+    }, {
+      "uid" : "5c7c62737b7a9646",
+      "name" : "Screenshot",
+      "source" : "5c7c62737b7a9646.png",
+      "type" : "image/png",
+      "size" : 411528
+    }, {
+      "uid" : "419062f04131cfb7",
+      "name" : "Execution video",
+      "source" : "419062f04131cfb7.mp4",
+      "type" : "video/mp4",
+      "size" : 178585
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 4,
+    "attachmentsCount" : 7,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Search and select Tour  - test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "Search and select Tour  - test suite"
+  }, {
+    "name" : "testMethod",
+    "value" : "Search and Select Tour plan in web View"
+  }, {
+    "name" : "package",
+    "value" : "Search and select Tour  - test suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-100.0.4896.75"
+  }, {
+    "name" : "browserVersion",
+    "value" : "100.0.4896.75"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ {
+      "uid" : "e1da1fa540d0bf88",
+      "status" : "broken",
+      "statusDetails" : "javascript error: Cannot read properties of null (reading 'setAttribute')\n                  (Session info: headless chrome=100.0.4896.75)",
+      "time" : {
+        "start" : 1649181615380,
+        "stop" : 1649181651518,
+        "duration" : 36138
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "81e87d747d1ec8bf.json",
+  "parameterValues" : [ "chrome-100.0.4896.75", "100.0.4896.75" ]
+}

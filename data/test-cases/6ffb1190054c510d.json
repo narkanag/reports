@@ -1,0 +1,419 @@
+{
+  "uid" : "6ffb1190054c510d",
+  "name" : "Logged into Application with valid credentials in web View",
+  "fullName" : "Search and select Tour  - test suite.Logged into Application with valid credentials in web View",
+  "historyId" : "3e268496c0525b188f4c5924e6688d8a",
+  "time" : {
+    "start" : 1649181669024,
+    "stop" : 1649181698685,
+    "duration" : 29661
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 1,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "current Window set to  : 1200, 900.",
+      "time" : {
+        "start" : 1649181670367,
+        "stop" : 1649181670367,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Mouse movd to  given locator",
+      "time" : {
+        "start" : 1649181673324,
+        "stop" : 1649181673324,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Wating for element to be displayed given timeout: 30000.",
+      "time" : {
+        "start" : 1649181673506,
+        "stop" : 1649181673506,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Performed click operation on Log in",
+      "time" : {
+        "start" : 1649181674667,
+        "stop" : 1649181674667,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "is Element Displayed : true",
+      "time" : {
+        "start" : 1649181674882,
+        "stop" : 1649181674882,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "is Element Displayed : true",
+      "time" : {
+        "start" : 1649181674957,
+        "stop" : 1649181674957,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Cleared value from text field",
+      "time" : {
+        "start" : 1649181675109,
+        "stop" : 1649181675109,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Enered text \"naresh.test@live.com\" in text field",
+      "time" : {
+        "start" : 1649181675759,
+        "stop" : 1649181675759,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Performed click operation on Continue",
+      "time" : {
+        "start" : 1649181676090,
+        "stop" : 1649181676090,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Wating for element to be displayed given timeout: 30000.",
+      "time" : {
+        "start" : 1649181676847,
+        "stop" : 1649181676847,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Cleared value from text field",
+      "time" : {
+        "start" : 1649181676940,
+        "stop" : 1649181676940,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Enered text \"Secure*12\" in text field",
+      "time" : {
+        "start" : 1649181677405,
+        "stop" : 1649181677405,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Performed click operation on Log in",
+      "time" : {
+        "start" : 1649181677706,
+        "stop" : 1649181677706,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Browser paused 500",
+      "time" : {
+        "start" : 1649181678206,
+        "stop" : 1649181678206,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "is Element Displayed : true",
+      "time" : {
+        "start" : 1649181698483,
+        "stop" : 1649181698483,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "is Element Displayed : true",
+      "time" : {
+        "start" : 1649181698591,
+        "stop" : 1649181698591,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "is Element Displayed : true",
+      "time" : {
+        "start" : 1649181698682,
+        "stop" : 1649181698682,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "c649a0b0ee4127d5",
+      "name" : "Screenshot",
+      "source" : "c649a0b0ee4127d5.png",
+      "type" : "image/png",
+      "size" : 934667
+    }, {
+      "uid" : "b4190522c014eea4",
+      "name" : "Screenshot",
+      "source" : "b4190522c014eea4.png",
+      "type" : "image/png",
+      "size" : 934667
+    }, {
+      "uid" : "940e3f67fd5ee068",
+      "name" : "Screenshot",
+      "source" : "940e3f67fd5ee068.png",
+      "type" : "image/png",
+      "size" : 1374818
+    }, {
+      "uid" : "4969718e1a0bc7c6",
+      "name" : "Screenshot",
+      "source" : "4969718e1a0bc7c6.png",
+      "type" : "image/png",
+      "size" : 50173
+    }, {
+      "uid" : "516525c9dc699b9a",
+      "name" : "Screenshot",
+      "source" : "516525c9dc699b9a.png",
+      "type" : "image/png",
+      "size" : 49361
+    }, {
+      "uid" : "9c90392bc38f4cd6",
+      "name" : "Screenshot",
+      "source" : "9c90392bc38f4cd6.png",
+      "type" : "image/png",
+      "size" : 49361
+    }, {
+      "uid" : "2b03041cd3cf770f",
+      "name" : "Screenshot",
+      "source" : "2b03041cd3cf770f.png",
+      "type" : "image/png",
+      "size" : 52019
+    }, {
+      "uid" : "88c469e1eab278fd",
+      "name" : "Screenshot",
+      "source" : "88c469e1eab278fd.png",
+      "type" : "image/png",
+      "size" : 52001
+    }, {
+      "uid" : "d7999d16c66e47ba",
+      "name" : "Screenshot",
+      "source" : "d7999d16c66e47ba.png",
+      "type" : "image/png",
+      "size" : 54901
+    }, {
+      "uid" : "b8b4a8d5101abae3",
+      "name" : "Screenshot",
+      "source" : "b8b4a8d5101abae3.png",
+      "type" : "image/png",
+      "size" : 54977
+    }, {
+      "uid" : "11ce9b9e3f36d4ac",
+      "name" : "Screenshot",
+      "source" : "11ce9b9e3f36d4ac.png",
+      "type" : "image/png",
+      "size" : 55942
+    }, {
+      "uid" : "86e235d99b412cc0",
+      "name" : "Screenshot",
+      "source" : "86e235d99b412cc0.png",
+      "type" : "image/png",
+      "size" : 55192
+    }, {
+      "uid" : "d0cf4f770bfc1d07",
+      "name" : "Execution video",
+      "source" : "d0cf4f770bfc1d07.mp4",
+      "type" : "video/mp4",
+      "size" : 118382
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 17,
+    "attachmentsCount" : 13,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Search and select Tour  - test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "Search and select Tour  - test suite"
+  }, {
+    "name" : "testMethod",
+    "value" : "Logged into Application with valid credentials in web View"
+  }, {
+    "name" : "package",
+    "value" : "Search and select Tour  - test suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-100.0.4896.75"
+  }, {
+    "name" : "browserVersion",
+    "value" : "100.0.4896.75"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "blocker",
+    "retries" : [ {
+      "uid" : "f5bc29e2c4ba819f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649181582392,
+        "stop" : 1649181615376,
+        "duration" : 32984
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6ffb1190054c510d.json",
+  "parameterValues" : [ "chrome-100.0.4896.75", "100.0.4896.75" ]
+}
