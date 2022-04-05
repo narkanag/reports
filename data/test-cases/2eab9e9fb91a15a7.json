@@ -1,0 +1,197 @@
+{
+  "uid" : "2eab9e9fb91a15a7",
+  "name" : "Search and Select Tour plan in mobile View",
+  "fullName" : "Search and select Tour  - test suite.Search and Select Tour plan in mobile View",
+  "historyId" : "dfe2635b524fd16dccef6d0fdc49569a",
+  "time" : {
+    "start" : 1649182783425,
+    "stop" : 1649182799859,
+    "duration" : 16434
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "element click intercepted: Element <a href=\"/tours/London/London-Eye-Standard-Ticket/d737-2988P11\" class=\"text-dark highlight-able card-link slider-card-title font-weight-semi-bold\" target=\"_blank\" rel=\"noopener\" disabled=\"\" style=\"background: #D2F8FC; border: 4px solid #FB7C05 ;\">...</a> is not clickable at point (536, 15). Other element would receive the click: <h2 class=\"mb-0 h5 mt-negative-1 product-card-title\">...</h2>\n                  (Session info: headless chrome=100.0.4896.75)",
+  "statusTrace" : "element click intercepted: Element <a href=\"/tours/London/London-Eye-Standard-Ticket/d737-2988P11\" class=\"text-dark highlight-able card-link slider-card-title font-weight-semi-bold\" target=\"_blank\" rel=\"noopener\" disabled=\"\" style=\"background: #D2F8FC; border: 4px solid #FB7C05 ;\">...</a> is not clickable at point (536, 15). Other element would receive the click: <h2 class=\"mb-0 h5 mt-negative-1 product-card-title\">...</h2>\n                  (Session info: headless chrome=100.0.4896.75)\n                    at runMicrotasks (<anonymous>)\n                    at Utility.click (/home/vsts/work/1/s/lib/utils/Utility.js:126:17)\n                    at SearchResults.selectTour (/home/vsts/work/1/s/lib/web_automation/viator/pages/searchResults.js:39:19)\n                    at Context.<anonymous> (/home/vsts/work/1/s/lib/web_automation/viator/test/e2e_bookTour.spec.js:49:31)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "element click intercepted: Element <a href=\"/tours/London/London-Eye-Standard-Ticket/d737-2988P11\" class=\"text-dark highlight-able card-link slider-card-title font-weight-semi-bold\" target=\"_blank\" rel=\"noopener\" disabled=\"\" style=\"background: #D2F8FC; border: 4px solid #FB7C05 ;\">...</a> is not clickable at point (536, 15). Other element would receive the click: <h2 class=\"mb-0 h5 mt-negative-1 product-card-title\">...</h2>\n                  (Session info: headless chrome=100.0.4896.75)",
+    "statusTrace" : "element click intercepted: Element <a href=\"/tours/London/London-Eye-Standard-Ticket/d737-2988P11\" class=\"text-dark highlight-able card-link slider-card-title font-weight-semi-bold\" target=\"_blank\" rel=\"noopener\" disabled=\"\" style=\"background: #D2F8FC; border: 4px solid #FB7C05 ;\">...</a> is not clickable at point (536, 15). Other element would receive the click: <h2 class=\"mb-0 h5 mt-negative-1 product-card-title\">...</h2>\n                  (Session info: headless chrome=100.0.4896.75)\n                    at runMicrotasks (<anonymous>)\n                    at Utility.click (/home/vsts/work/1/s/lib/utils/Utility.js:126:17)\n                    at SearchResults.selectTour (/home/vsts/work/1/s/lib/web_automation/viator/pages/searchResults.js:39:19)\n                    at Context.<anonymous> (/home/vsts/work/1/s/lib/web_automation/viator/test/e2e_bookTour.spec.js:49:31)",
+    "steps" : [ {
+      "name" : "Performed click operation on Las Vegas, London, Paris...",
+      "time" : {
+        "start" : 1649182783813,
+        "stop" : 1649182783813,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Enered text \"london\" in text field",
+      "time" : {
+        "start" : 1649182784396,
+        "stop" : 1649182784396,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Performed click operation on London, England",
+      "time" : {
+        "start" : 1649182788234,
+        "stop" : 1649182788234,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Browser paused 5000",
+      "time" : {
+        "start" : 1649182793238,
+        "stop" : 1649182793238,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Scroll element into viewport",
+      "time" : {
+        "start" : 1649182793412,
+        "stop" : 1649182793412,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "283c549c69db2a4c",
+      "name" : "Screenshot",
+      "source" : "283c549c69db2a4c.png",
+      "type" : "image/png",
+      "size" : 418097
+    }, {
+      "uid" : "3cb4d68d67c28843",
+      "name" : "Screenshot",
+      "source" : "3cb4d68d67c28843.png",
+      "type" : "image/png",
+      "size" : 322370
+    }, {
+      "uid" : "99243bbf1b081d45",
+      "name" : "Screenshot",
+      "source" : "99243bbf1b081d45.png",
+      "type" : "image/png",
+      "size" : 322370
+    }, {
+      "uid" : "fc4210f6ab81b12c",
+      "name" : "Screenshot",
+      "source" : "fc4210f6ab81b12c.png",
+      "type" : "image/png",
+      "size" : 409438
+    }, {
+      "uid" : "f80ad233acf4c29e",
+      "name" : "Screenshot",
+      "source" : "f80ad233acf4c29e.png",
+      "type" : "image/png",
+      "size" : 427559
+    }, {
+      "uid" : "29563ce755b5952c",
+      "name" : "Screenshot",
+      "source" : "29563ce755b5952c.png",
+      "type" : "image/png",
+      "size" : 86029
+    }, {
+      "uid" : "8622bff88e33abd",
+      "name" : "Execution video",
+      "source" : "8622bff88e33abd.mp4",
+      "type" : "video/mp4",
+      "size" : 258273
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 5,
+    "attachmentsCount" : 7,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Search and select Tour  - test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "Search and select Tour  - test suite"
+  }, {
+    "name" : "testMethod",
+    "value" : "Search and Select Tour plan in mobile View"
+  }, {
+    "name" : "package",
+    "value" : "Search and select Tour  - test suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-100.0.4896.75"
+  }, {
+    "name" : "browserVersion",
+    "value" : "100.0.4896.75"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2eab9e9fb91a15a7.json",
+  "parameterValues" : [ "chrome-100.0.4896.75", "100.0.4896.75" ]
+}
