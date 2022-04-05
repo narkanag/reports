@@ -6,13 +6,13 @@
       "name" : "expected 'Find amazing things to do.Anytime, an…' to equal 'Find amazing things to do.Anytime, An…'      \n                      actual expected\n                      \n                      'Find amazing things to do.Anytime, anywhereAnywhere.'\n                      ",
       "children" : [ {
         "name" : "Verify and validate Viator application content in'English'",
-        "uid" : "50cee9552240977a",
+        "uid" : "4dc4d5ef6b259d1f",
         "parentUid" : "5d4fd6119e27cc9aa216ccd5e7a47db2",
         "status" : "failed",
         "time" : {
-          "start" : 1649144121236,
-          "stop" : 1649144132129,
-          "duration" : 10893
+          "start" : 1649153564132,
+          "stop" : 1649153574157,
+          "duration" : 10025
         },
         "flaky" : false,
         "newFailed" : false,
@@ -23,54 +23,8 @@
         "parameters" : [ "chrome-100.0.4896.75", "100.0.4896.75" ]
       } ],
       "uid" : "5d4fd6119e27cc9aa216ccd5e7a47db2"
-    }, {
-      "name" : "expected false to equal true      \n                      actual expected\n                      \n                      falsetrue\n                      ",
-      "children" : [ {
-        "name" : "Logged into Application with valid credentials in mobile View",
-        "uid" : "97243e634d688f91",
-        "parentUid" : "88369a622b1cc461d6f34affdb6fcd1d",
-        "status" : "failed",
-        "time" : {
-          "start" : 1649144333677,
-          "stop" : 1649144418885,
-          "duration" : 85208
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 1,
-        "retriesStatusChange" : false,
-        "parameters" : [ "chrome-100.0.4896.75", "100.0.4896.75" ]
-      } ],
-      "uid" : "88369a622b1cc461d6f34affdb6fcd1d"
     } ],
     "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
-  }, {
-    "name" : "Test defects",
-    "children" : [ {
-      "name" : "javascript error: Cannot read properties of null (reading 'setAttribute')\n                  (Session info: headless chrome=100.0.4896.75)",
-      "children" : [ {
-        "name" : "Search and Select Tour plan in mobile View",
-        "uid" : "2659b637ab7f836e",
-        "parentUid" : "e28c449cb8695858180bc433c2b16df3",
-        "status" : "broken",
-        "time" : {
-          "start" : 1649144418890,
-          "stop" : 1649144444247,
-          "duration" : 25357
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "newPassed" : false,
-        "newBroken" : false,
-        "retriesCount" : 1,
-        "retriesStatusChange" : false,
-        "parameters" : [ "chrome-100.0.4896.75", "100.0.4896.75" ]
-      } ],
-      "uid" : "e28c449cb8695858180bc433c2b16df3"
-    } ],
-    "uid" : "bdbf199525818fae7a8651db9eafe741"
   } ],
   "name" : "categories"
 }
