@@ -4,10 +4,10 @@
     "uid" : "801efd890ebdd7a990b1732d99f58cc9",
     "name" : "Validate news page in different launguage",
     "statistic" : {
-      "failed" : 0,
-      "broken" : 5,
+      "failed" : 3,
+      "broken" : 0,
       "skipped" : 0,
-      "passed" : 0,
+      "passed" : 2,
       "unknown" : 0,
       "total" : 5
     }
@@ -15,10 +15,10 @@
     "uid" : "a358e701664bb2e1d1aa6ad7135a84a5",
     "name" : "Validate filters in search results page - test suite",
     "statistic" : {
-      "failed" : 0,
-      "broken" : 4,
+      "failed" : 1,
+      "broken" : 1,
       "skipped" : 0,
-      "passed" : 0,
+      "passed" : 2,
       "unknown" : 0,
       "total" : 4
     }
@@ -27,9 +27,9 @@
     "name" : "Search and select Tour  - test suite",
     "statistic" : {
       "failed" : 0,
-      "broken" : 2,
+      "broken" : 0,
       "skipped" : 0,
-      "passed" : 4,
+      "passed" : 6,
       "unknown" : 0,
       "total" : 6
     }
@@ -38,9 +38,9 @@
     "name" : "Validate Content in Welcome page - Localization",
     "statistic" : {
       "failed" : 0,
-      "broken" : 2,
+      "broken" : 0,
       "skipped" : 0,
-      "passed" : 0,
+      "passed" : 2,
       "unknown" : 0,
       "total" : 2
     }

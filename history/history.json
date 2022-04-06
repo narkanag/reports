@@ -1,41 +1,60 @@
 {
   "93dc56b36e97d16d3b5b7249cafd275d" : {
     "statistic" : {
-      "failed" : 0,
-      "broken" : 1,
+      "failed" : 1,
+      "broken" : 0,
       "skipped" : 0,
       "passed" : 0,
       "unknown" : 0,
       "total" : 1
     },
     "items" : [ {
-      "uid" : "14c559eba8fb2b3",
-      "status" : "broken",
-      "statusDetails" : "javascript error: Cannot read properties of null (reading 'setAttribute')\n                  (Session info: headless chrome=100.0.4896.75)",
+      "uid" : "dd5bdcd72b82e651",
+      "status" : "failed",
+      "statusDetails" : "expected 'https://www.viator.com/pt-br/?locales…' to include 'news'      \n                      actual expected\n                      \n                      'https://www.viator.com/pt-br/?localeswitch=1'undefined\n                      ",
       "time" : {
-        "start" : 1649209651019,
-        "stop" : 1649209702758,
-        "duration" : 51739
+        "start" : 1649210043420,
+        "stop" : 1649210053298,
+        "duration" : 9878
       }
     } ]
   },
   "cc193bdfbd69911566a4b9ad94964ae7" : {
     "statistic" : {
-      "failed" : 0,
-      "broken" : 1,
+      "failed" : 1,
+      "broken" : 0,
       "skipped" : 0,
       "passed" : 0,
       "unknown" : 0,
       "total" : 1
     },
     "items" : [ {
-      "uid" : "c7cb9bf09ce26029",
-      "status" : "broken",
-      "statusDetails" : "javascript error: Cannot read properties of null (reading 'setAttribute')\n                  (Session info: headless chrome=100.0.4896.75)",
+      "uid" : "5f68f22d23abe6b1",
+      "status" : "failed",
+      "statusDetails" : "expected 'https://www.viator.com/es-es/?locales…' to include 'news'      \n                      actual expected\n                      \n                      'https://www.viator.com/es-es/?localeswitch=1'undefined\n                      ",
       "time" : {
-        "start" : 1649209496533,
-        "stop" : 1649209548904,
-        "duration" : 52371
+        "start" : 1649210013278,
+        "stop" : 1649210024699,
+        "duration" : 11421
+      }
+    } ]
+  },
+  "3d309a2c9693b7c88ec8fe32eca1d573" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5c1cad970dbe198",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649210011089,
+        "stop" : 1649210018490,
+        "duration" : 7401
       }
     } ]
   },
@@ -49,32 +68,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "a893d3f513415077",
+      "uid" : "b60b1a690997b341",
       "status" : "passed",
       "time" : {
-        "start" : 1649209293144,
-        "stop" : 1649209314331,
-        "duration" : 21187
-      }
-    } ]
-  },
-  "3d309a2c9693b7c88ec8fe32eca1d573" : {
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 1,
-      "skipped" : 0,
-      "passed" : 0,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "d4206af21bc1c0ae",
-      "status" : "broken",
-      "statusDetails" : "javascript error: Cannot read properties of null (reading 'setAttribute')\n                  (Session info: headless chrome=100.0.4896.75)",
-      "time" : {
-        "start" : 1649209296044,
-        "stop" : 1649209314860,
-        "duration" : 18816
+        "start" : 1649209895055,
+        "stop" : 1649209915813,
+        "duration" : 20758
       }
     } ]
   },
@@ -88,93 +87,90 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "14bc3f12ba1b6b4f",
+      "uid" : "d2952323ac0ea3c4",
       "status" : "broken",
       "statusDetails" : "javascript error: Cannot read properties of null (reading 'setAttribute')\n                  (Session info: headless chrome=100.0.4896.75)",
       "time" : {
-        "start" : 1649209370157,
-        "stop" : 1649209400730,
-        "duration" : 30573
+        "start" : 1649209955143,
+        "stop" : 1649209985943,
+        "duration" : 30800
       }
     } ]
   },
   "f5cd4cce2c2433940e19050422f7b0ab" : {
     "statistic" : {
       "failed" : 0,
-      "broken" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c2bed0a70657e570",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649209995792,
+        "stop" : 1649210011077,
+        "duration" : 15285
+      }
+    } ]
+  },
+  "8d439ba831ed96354110743fa7de13da" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
       "skipped" : 0,
       "passed" : 0,
       "unknown" : 0,
       "total" : 1
     },
     "items" : [ {
-      "uid" : "9ae1f9cd90bfb3a0",
-      "status" : "broken",
-      "statusDetails" : "javascript error: Cannot read properties of null (reading 'setAttribute')\n                  (Session info: headless chrome=100.0.4896.75)",
+      "uid" : "bbd8172803fb50ae",
+      "status" : "failed",
+      "statusDetails" : "expected 'https://www.viator.com/es-pe/?locales…' to include 'news'      \n                      actual expected\n                      \n                      'https://www.viator.com/es-pe/?localeswitch=1'undefined\n                      ",
       "time" : {
-        "start" : 1649209274726,
-        "stop" : 1649209295980,
-        "duration" : 21254
+        "start" : 1649210033773,
+        "stop" : 1649210043412,
+        "duration" : 9639
       }
     } ]
   },
   "e8bc6cc0c36f07c4b9feaaab4aa0672d" : {
     "statistic" : {
       "failed" : 0,
-      "broken" : 1,
+      "broken" : 0,
       "skipped" : 0,
-      "passed" : 0,
+      "passed" : 1,
       "unknown" : 0,
       "total" : 1
     },
     "items" : [ {
-      "uid" : "838dceb5e02c9ff",
-      "status" : "broken",
-      "statusDetails" : "javascript error: Cannot read properties of null (reading 'setAttribute')\n                  (Session info: headless chrome=100.0.4896.75)",
+      "uid" : "1c5d6ebab63d3045",
+      "status" : "passed",
       "time" : {
-        "start" : 1649209319197,
-        "stop" : 1649209336272,
-        "duration" : 17075
-      }
-    } ]
-  },
-  "8d439ba831ed96354110743fa7de13da" : {
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 1,
-      "skipped" : 0,
-      "passed" : 0,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "de7c7ebe641b6f55",
-      "status" : "broken",
-      "statusDetails" : "javascript error: Cannot read properties of null (reading 'setAttribute')\n                  (Session info: headless chrome=100.0.4896.75)",
-      "time" : {
-        "start" : 1649209599687,
-        "stop" : 1649209651011,
-        "duration" : 51324
+        "start" : 1649209878674,
+        "stop" : 1649209894734,
+        "duration" : 16060
       }
     } ]
   },
   "9f3f4692bb840d13e43f63a09f2e0a81" : {
     "statistic" : {
       "failed" : 0,
-      "broken" : 1,
+      "broken" : 0,
       "skipped" : 0,
-      "passed" : 0,
+      "passed" : 1,
       "unknown" : 0,
       "total" : 1
     },
     "items" : [ {
-      "uid" : "b381f49fa79561eb",
-      "status" : "broken",
-      "statusDetails" : "javascript error: Cannot read properties of null (reading 'setAttribute')\n                  (Session info: headless chrome=100.0.4896.75)",
+      "uid" : "4e92955ec6fd8a47",
+      "status" : "passed",
       "time" : {
-        "start" : 1649209400740,
-        "stop" : 1649209459456,
-        "duration" : 58716
+        "start" : 1649209985946,
+        "stop" : 1649209992778,
+        "duration" : 6832
       }
     } ]
   },
@@ -188,32 +184,31 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "3d859a5db1ccb927",
+      "uid" : "44b22f5f04222b72",
       "status" : "passed",
       "time" : {
-        "start" : 1649209411864,
-        "stop" : 1649209430906,
-        "duration" : 19042
+        "start" : 1649209965720,
+        "stop" : 1649209986280,
+        "duration" : 20560
       }
     } ]
   },
   "f25a6424b7979bf1a35f6713dd16a4f3" : {
     "statistic" : {
       "failed" : 0,
-      "broken" : 1,
+      "broken" : 0,
       "skipped" : 0,
-      "passed" : 0,
+      "passed" : 1,
       "unknown" : 0,
       "total" : 1
     },
     "items" : [ {
-      "uid" : "56541c8f450eebeb",
-      "status" : "broken",
-      "statusDetails" : "javascript error: Cannot read properties of null (reading 'setAttribute')\n                  (Session info: headless chrome=100.0.4896.75)",
+      "uid" : "7627698934ddd977",
+      "status" : "passed",
       "time" : {
-        "start" : 1649209548911,
-        "stop" : 1649209599680,
-        "duration" : 50769
+        "start" : 1649210024737,
+        "stop" : 1649210033767,
+        "duration" : 9030
       }
     } ]
   },
@@ -227,52 +222,51 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "e1effa128d0cc3",
+      "uid" : "5ec2142be75291cc",
       "status" : "passed",
       "time" : {
-        "start" : 1649209373177,
-        "stop" : 1649209411856,
-        "duration" : 38679
+        "start" : 1649209931276,
+        "stop" : 1649209965718,
+        "duration" : 34442
       }
     } ]
   },
   "9927565d50ec9ed717e3ac7999902152" : {
     "statistic" : {
-      "failed" : 0,
-      "broken" : 1,
+      "failed" : 1,
+      "broken" : 0,
       "skipped" : 0,
       "passed" : 0,
       "unknown" : 0,
       "total" : 1
     },
     "items" : [ {
-      "uid" : "73a30ab9441733e5",
-      "status" : "broken",
-      "statusDetails" : "javascript error: Cannot read properties of null (reading 'setAttribute')\n                  (Session info: headless chrome=100.0.4896.75)",
+      "uid" : "e3370998b84e7f7b",
+      "status" : "failed",
+      "statusDetails" : "expected false to equal true      \n                      actual expected\n                      \n                      falsetrue\n                      ",
       "time" : {
-        "start" : 1649209336294,
-        "stop" : 1649209370151,
-        "duration" : 33857
+        "start" : 1649209894739,
+        "stop" : 1649209955134,
+        "duration" : 60395
       }
     } ]
   },
   "3e268496c0525b188f4c5924e6688d8a" : {
     "statistic" : {
       "failed" : 0,
-      "broken" : 1,
+      "broken" : 0,
       "skipped" : 0,
-      "passed" : 0,
+      "passed" : 1,
       "unknown" : 0,
       "total" : 1
     },
     "items" : [ {
-      "uid" : "dfd1bb05ec5196b6",
-      "status" : "broken",
-      "statusDetails" : "javascript error: Cannot read properties of null (reading 'setAttribute')\n                  (Session info: headless chrome=100.0.4896.75)",
+      "uid" : "25b742ee61ea0672",
+      "status" : "passed",
       "time" : {
-        "start" : 1649209274728,
-        "stop" : 1649209293141,
-        "duration" : 18413
+        "start" : 1649209878672,
+        "stop" : 1649209895049,
+        "duration" : 16377
       }
     } ]
   },
@@ -286,52 +280,50 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "8c4219bebca24caf",
+      "uid" : "93eb764b55e24b70",
       "status" : "passed",
       "time" : {
-        "start" : 1649209430909,
-        "stop" : 1649209440391,
-        "duration" : 9482
-      }
-    } ]
-  },
-  "abcd911ebbf49abed0b14883e87ad8c7" : {
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 1,
-      "skipped" : 0,
-      "passed" : 0,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "bc66a4f2f566a614",
-      "status" : "broken",
-      "statusDetails" : "javascript error: Cannot read properties of null (reading 'setAttribute')\n                  (Session info: headless chrome=100.0.4896.75)",
-      "time" : {
-        "start" : 1649209314344,
-        "stop" : 1649209373135,
-        "duration" : 58791
+        "start" : 1649209986283,
+        "stop" : 1649209996135,
+        "duration" : 9852
       }
     } ]
   },
   "d1e6f81e72b211ae8170d4bf672ded62" : {
     "statistic" : {
       "failed" : 0,
-      "broken" : 1,
+      "broken" : 0,
       "skipped" : 0,
-      "passed" : 0,
+      "passed" : 1,
       "unknown" : 0,
       "total" : 1
     },
     "items" : [ {
-      "uid" : "a85533e03112a659",
-      "status" : "broken",
-      "statusDetails" : "javascript error: Cannot read properties of null (reading 'setAttribute')\n                  (Session info: headless chrome=100.0.4896.75)",
+      "uid" : "bcf54593711a611a",
+      "status" : "passed",
       "time" : {
-        "start" : 1649209444109,
-        "stop" : 1649209496519,
-        "duration" : 52410
+        "start" : 1649210000528,
+        "stop" : 1649210013258,
+        "duration" : 12730
+      }
+    } ]
+  },
+  "abcd911ebbf49abed0b14883e87ad8c7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c8f8ad2fd4298a0c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649209915818,
+        "stop" : 1649209931248,
+        "duration" : 15430
       }
     } ]
   }

@@ -1,0 +1,257 @@
+{
+  "uid" : "dd5bdcd72b82e651",
+  "name" : "Verify and validate Viator application news page for 'Português (Brasil)'",
+  "fullName" : "Validate news page in different launguage.Verify and validate Viator application news page for 'Português (Brasil)'",
+  "historyId" : "93dc56b36e97d16d3b5b7249cafd275d",
+  "time" : {
+    "start" : 1649210043420,
+    "stop" : 1649210053298,
+    "duration" : 9878
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "expected 'https://www.viator.com/pt-br/?locales…' to include 'news'      \n                      actual expected\n                      \n                      'https://www.viator.com/pt-br/?localeswitch=1'undefined\n                      ",
+  "statusTrace" : "AssertionError: expected 'https://www.viator.com/pt-br/?locales…' to include 'news'\n                    at Footer.verifyCurrentURLforNewsPage (/home/vsts/work/1/s/lib/web_automation/viator/pages/footer.js:26:57)\n                    at Context.<anonymous> (/home/vsts/work/1/s/lib/web_automation/viator/test/news_localization.spec.js:35:24)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "expected 'https://www.viator.com/pt-br/?locales…' to include 'news'      \n                      actual expected\n                      \n                      'https://www.viator.com/pt-br/?localeswitch=1'undefined\n                      ",
+    "statusTrace" : "AssertionError: expected 'https://www.viator.com/pt-br/?locales…' to include 'news'\n                    at Footer.verifyCurrentURLforNewsPage (/home/vsts/work/1/s/lib/web_automation/viator/pages/footer.js:26:57)\n                    at Context.<anonymous> (/home/vsts/work/1/s/lib/web_automation/viator/test/news_localization.spec.js:35:24)",
+    "steps" : [ {
+      "name" : "current Window set to  : 1200, 900.",
+      "time" : {
+        "start" : 1649210044481,
+        "stop" : 1649210044481,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Performed click operation on News",
+      "time" : {
+        "start" : 1649210046931,
+        "stop" : 1649210046931,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Browser paused 2000",
+      "time" : {
+        "start" : 1649210048933,
+        "stop" : 1649210048933,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Current URL is  : https://www.viator.com/news.",
+      "time" : {
+        "start" : 1649210048961,
+        "stop" : 1649210048961,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Performed click operation on EN",
+      "time" : {
+        "start" : 1649210049406,
+        "stop" : 1649210049406,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Performed click operation on Português (Brasil)",
+      "time" : {
+        "start" : 1649210049758,
+        "stop" : 1649210049758,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Browser paused 3000",
+      "time" : {
+        "start" : 1649210052759,
+        "stop" : 1649210052759,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Current URL is  : https://www.viator.com/pt-BR/?localeSwitch=1.",
+      "time" : {
+        "start" : 1649210052782,
+        "stop" : 1649210052782,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "1fe8047c23e04ef9",
+      "name" : "Screenshot",
+      "source" : "1fe8047c23e04ef9.png",
+      "type" : "image/png",
+      "size" : 933360
+    }, {
+      "uid" : "7f40b16bff18de83",
+      "name" : "Screenshot",
+      "source" : "7f40b16bff18de83.png",
+      "type" : "image/png",
+      "size" : 933360
+    }, {
+      "uid" : "4460ed8657766dfd",
+      "name" : "Screenshot",
+      "source" : "4460ed8657766dfd.png",
+      "type" : "image/png",
+      "size" : 1374818
+    }, {
+      "uid" : "858e9679e15a5103",
+      "name" : "Screenshot",
+      "source" : "858e9679e15a5103.png",
+      "type" : "image/png",
+      "size" : 625059
+    }, {
+      "uid" : "ec9c1e3af9d1abb0",
+      "name" : "Screenshot",
+      "source" : "ec9c1e3af9d1abb0.png",
+      "type" : "image/png",
+      "size" : 625059
+    }, {
+      "uid" : "586b9347912887b5",
+      "name" : "Screenshot",
+      "source" : "586b9347912887b5.png",
+      "type" : "image/png",
+      "size" : 524941
+    }, {
+      "uid" : "9835c079cd5cd7ea",
+      "name" : "Screenshot",
+      "source" : "9835c079cd5cd7ea.png",
+      "type" : "image/png",
+      "size" : 625316
+    }, {
+      "uid" : "57a4019181762c1d",
+      "name" : "Screenshot",
+      "source" : "57a4019181762c1d.png",
+      "type" : "image/png",
+      "size" : 945789
+    }, {
+      "uid" : "4df1d43e0af15144",
+      "name" : "Execution video",
+      "source" : "4df1d43e0af15144.mp4",
+      "type" : "video/mp4",
+      "size" : 161249
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 8,
+    "attachmentsCount" : 9,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-3"
+  }, {
+    "name" : "suite",
+    "value" : "Validate news page in different launguage"
+  }, {
+    "name" : "testClass",
+    "value" : "Validate news page in different launguage"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify and validate Viator application news page for 'Português (Brasil)'"
+  }, {
+    "name" : "package",
+    "value" : "Validate news page in different launguage"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-100.0.4896.75"
+  }, {
+    "name" : "browserVersion",
+    "value" : "100.0.4896.75"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "dd5bdcd72b82e651.json",
+  "parameterValues" : [ "chrome-100.0.4896.75", "100.0.4896.75" ]
+}
