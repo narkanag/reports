@@ -1,0 +1,225 @@
+{
+  "uid" : "9f4e2c2b4d3be7d7",
+  "name" : "Verify and validate Viator application news page for 'English'",
+  "fullName" : "Validate news page in different launguage.Verify and validate Viator application news page for 'English'",
+  "historyId" : "d1e6f81e72b211ae8170d4bf672ded62",
+  "time" : {
+    "start" : 1649214502677,
+    "stop" : 1649214516636,
+    "duration" : 13959
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "current Window set to  : 1200, 900.",
+      "time" : {
+        "start" : 1649214502892,
+        "stop" : 1649214502893,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Performed click operation on News",
+      "time" : {
+        "start" : 1649214509320,
+        "stop" : 1649214509320,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Browser paused 2000",
+      "time" : {
+        "start" : 1649214511322,
+        "stop" : 1649214511322,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Current URL is  : https://www.viator.com/news.",
+      "time" : {
+        "start" : 1649214511338,
+        "stop" : 1649214511338,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Performed click operation on EN",
+      "time" : {
+        "start" : 1649214512568,
+        "stop" : 1649214512568,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Performed click operation on Menu\n                    .cls-header-logo{fill:#186B6D;}\n                    a Tripadvisor company\n                    Search\n                    EN\n                    Language & Country\n                    The Americas\n                    English\n                    English (Canada)\n                    Español (Argentina)\n                    Español (Chile)\n                    Español (Colombia)\n                    Español (México)\n                    Español (Perú)\n                    Español (Venezuela)\n                    Français (Canada)\n                    Português (Brasil)\n                    Europe\n                    Dansk\n                    Deutsch\n                    Deutsch (Schweiz)\n                    Deutsch (Österreich)\n                    English (Ireland)\n                    English (UK)\n                    Español\n                    Français\n                    Français (Belgique)\n                    Français (Suisse)\n                    Italiano\n                    Italiano (Svizzera)\n                    Nederlands\n                    Nederlands (België)\n                    Norsk\n                    Português (Portugal)\n                    Svenska\n                    Asia Pacific\n                    English (Australia)\n                    English (Hong Kong)\n                    English (India)\n                    English (Malaysia)\n                    English (New Zealand)\n                    English (Philippines)\n                    English (Singapore)\n                    日本語\n                    Africa & the Middle East\n                    English (South Africa)\n                    ₹\n                    INR\n                    Help\n                    Bookings\n                    Account\n                    Viator News\n                    The latest on Viator\n                    Introducing Viator Accelerate\n                    Feb 01, 2022\n                    A Look Back on a Wonder-Filled 2021\n                    Dec 14, 2021\n                    Viator Offers Exclusive Before-Hours Tour of NYC's FAO Schwarz\n                    Nov 15, 2021\n                    FOMO Creates Sky-High Demand for North American Experiences\n                    Nov 10, 2021\n                    Press inquiries? Get in touch with the Viator media relations team on pr@viator.com\n                    Help Center\n                    Privacy and Cookies Statement\n                    About Viator\n                    Careers\n                    Sitemap\n                    Supplier Sign Up\n                    Travel Agents\n                    Become an Affiliate\n                    News\n                    Facebook\n                    Twitter\n                    Pinterest\n                    Instagram\n                    YouTube\n                    TikTok\n                    Trustpilot_ratings_4halfstar-RGB Created with Sketch. 4.3 rating  | 62,890 reviews .st0{fill:#FFFFFF;} .st1{fill:#00B67A;} .st2{fill:#005128;}\n                    .cls-footer-logo{fill:#fff;}\n                    © 1997–2022 Viator, Inc.\n                    Terms & ConditionsManage Settings",
+      "time" : {
+        "start" : 1649214513620,
+        "stop" : 1649214513620,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Browser paused 3000",
+      "time" : {
+        "start" : 1649214516623,
+        "stop" : 1649214516623,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Current URL is  : https://www.viator.com/news.",
+      "time" : {
+        "start" : 1649214516633,
+        "stop" : 1649214516633,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "50513692b9f2265e",
+      "name" : "Screenshot",
+      "source" : "50513692b9f2265e.png",
+      "type" : "image/png",
+      "size" : 625059
+    }, {
+      "uid" : "ce8e512582064e35",
+      "name" : "Screenshot",
+      "source" : "ce8e512582064e35.png",
+      "type" : "image/png",
+      "size" : 625059
+    }, {
+      "uid" : "b33cd99c0402766f",
+      "name" : "Screenshot",
+      "source" : "b33cd99c0402766f.png",
+      "type" : "image/png",
+      "size" : 524941
+    }, {
+      "uid" : "6efaff0147f2f828",
+      "name" : "Screenshot",
+      "source" : "6efaff0147f2f828.png",
+      "type" : "image/png",
+      "size" : 618601
+    }, {
+      "uid" : "699cbd7ede526e1",
+      "name" : "Execution video",
+      "source" : "699cbd7ede526e1.mp4",
+      "type" : "video/mp4",
+      "size" : 84168
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 8,
+    "attachmentsCount" : 5,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-3"
+  }, {
+    "name" : "suite",
+    "value" : "Validate news page in different launguage"
+  }, {
+    "name" : "testClass",
+    "value" : "Validate news page in different launguage"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify and validate Viator application news page for 'English'"
+  }, {
+    "name" : "package",
+    "value" : "Validate news page in different launguage"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-100.0.4896.75"
+  }, {
+    "name" : "browserVersion",
+    "value" : "100.0.4896.75"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9f4e2c2b4d3be7d7.json",
+  "parameterValues" : [ "chrome-100.0.4896.75", "100.0.4896.75" ]
+}

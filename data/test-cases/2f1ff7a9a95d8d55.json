@@ -1,0 +1,437 @@
+{
+  "uid" : "2f1ff7a9a95d8d55",
+  "name" : "Update site settings and validate",
+  "fullName" : "Validate filters in search results page - test suite.Update site settings and validate",
+  "historyId" : "84e70128558d87c3950b67cabb759f18",
+  "time" : {
+    "start" : 1649214467163,
+    "stop" : 1649214484402,
+    "duration" : 17239
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "expected 'EN' to equal 'ES'      \n                      actual expected\n                      \n                      'ENES'\n                      ",
+  "statusTrace" : "AssertionError: expected 'EN' to equal 'ES'\n                    at Header.verifyUpdatedSiteSettings (/home/vsts/work/1/s/lib/web_automation/viator/pages/header.js:116:71)\n                    at Context.<anonymous> (/home/vsts/work/1/s/lib/web_automation/viator/test/clear_filters.spec.js:57:28)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "expected 'EN' to equal 'ES'      \n                      actual expected\n                      \n                      'ENES'\n                      ",
+    "statusTrace" : "AssertionError: expected 'EN' to equal 'ES'\n                    at Header.verifyUpdatedSiteSettings (/home/vsts/work/1/s/lib/web_automation/viator/pages/header.js:116:71)\n                    at Context.<anonymous> (/home/vsts/work/1/s/lib/web_automation/viator/test/clear_filters.spec.js:57:28)",
+    "steps" : [ {
+      "name" : "Performed click operation on .cls-header-logo{fill:#186B6D;}\n                    a Tripadvisor company",
+      "time" : {
+        "start" : 1649214470910,
+        "stop" : 1649214470910,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Wating for element to be displayed given timeout: 30000.",
+      "time" : {
+        "start" : 1649214471524,
+        "stop" : 1649214471524,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Mouse movd to  given locator",
+      "time" : {
+        "start" : 1649214471632,
+        "stop" : 1649214471632,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Wating for element to be clickable given timeout: 30000.",
+      "time" : {
+        "start" : 1649214471732,
+        "stop" : 1649214471732,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Performed click operation on Profile",
+      "time" : {
+        "start" : 1649214472815,
+        "stop" : 1649214472815,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Wating for element to be displayed given timeout: 30000.",
+      "time" : {
+        "start" : 1649214473113,
+        "stop" : 1649214473113,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Performed click operation on Site Settings",
+      "time" : {
+        "start" : 1649214473261,
+        "stop" : 1649214473261,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Performed click operation on Edit",
+      "time" : {
+        "start" : 1649214474168,
+        "stop" : 1649214474168,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Performed click operation on English",
+      "time" : {
+        "start" : 1649214474427,
+        "stop" : 1649214474427,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Performed click operation on Español (Argentina)",
+      "time" : {
+        "start" : 1649214474750,
+        "stop" : 1649214474750,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Performed click operation on Save",
+      "time" : {
+        "start" : 1649214475073,
+        "stop" : 1649214475073,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Browser paused 2000",
+      "time" : {
+        "start" : 1649214477076,
+        "stop" : 1649214477076,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Performed click operation on Edit",
+      "time" : {
+        "start" : 1649214477197,
+        "stop" : 1649214477197,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Select option with value :EUR",
+      "time" : {
+        "start" : 1649214477448,
+        "stop" : 1649214477448,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Performed click operation on Save",
+      "time" : {
+        "start" : 1649214477763,
+        "stop" : 1649214477763,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Browser paused 2000",
+      "time" : {
+        "start" : 1649214479766,
+        "stop" : 1649214479766,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Performed click operation on .cls-header-logo{fill:#186B6D;}\n                    a Tripadvisor company",
+      "time" : {
+        "start" : 1649214483031,
+        "stop" : 1649214483031,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "inner text of the DOM-element is : EN",
+      "time" : {
+        "start" : 1649214483709,
+        "stop" : 1649214483709,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "3f07cd714b206c92",
+      "name" : "Screenshot",
+      "source" : "3f07cd714b206c92.png",
+      "type" : "image/png",
+      "size" : 420373
+    }, {
+      "uid" : "bb49cdbe2ee145c0",
+      "name" : "Screenshot",
+      "source" : "bb49cdbe2ee145c0.png",
+      "type" : "image/png",
+      "size" : 1374686
+    }, {
+      "uid" : "caf4a5aaf0d02e28",
+      "name" : "Screenshot",
+      "source" : "caf4a5aaf0d02e28.png",
+      "type" : "image/png",
+      "size" : 62567
+    }, {
+      "uid" : "82bf457f01d8d4b3",
+      "name" : "Screenshot",
+      "source" : "82bf457f01d8d4b3.png",
+      "type" : "image/png",
+      "size" : 63467
+    }, {
+      "uid" : "b9d4638483793b65",
+      "name" : "Screenshot",
+      "source" : "b9d4638483793b65.png",
+      "type" : "image/png",
+      "size" : 76911
+    }, {
+      "uid" : "b37b762e09249df9",
+      "name" : "Screenshot",
+      "source" : "b37b762e09249df9.png",
+      "type" : "image/png",
+      "size" : 83935
+    }, {
+      "uid" : "daf94529ab9b7560",
+      "name" : "Screenshot",
+      "source" : "daf94529ab9b7560.png",
+      "type" : "image/png",
+      "size" : 78156
+    }, {
+      "uid" : "15cecfd6d9f9f86e",
+      "name" : "Screenshot",
+      "source" : "15cecfd6d9f9f86e.png",
+      "type" : "image/png",
+      "size" : 77847
+    }, {
+      "uid" : "4d061e170cf7d99f",
+      "name" : "Screenshot",
+      "source" : "4d061e170cf7d99f.png",
+      "type" : "image/png",
+      "size" : 79349
+    }, {
+      "uid" : "b962c4a9ab3dc587",
+      "name" : "Screenshot",
+      "source" : "b962c4a9ab3dc587.png",
+      "type" : "image/png",
+      "size" : 79402
+    }, {
+      "uid" : "63bb03081b846ad3",
+      "name" : "Screenshot",
+      "source" : "63bb03081b846ad3.png",
+      "type" : "image/png",
+      "size" : 79111
+    }, {
+      "uid" : "9312618ae62b60d1",
+      "name" : "Screenshot",
+      "source" : "9312618ae62b60d1.png",
+      "type" : "image/png",
+      "size" : 1374884
+    }, {
+      "uid" : "8ad0e8ea9be94951",
+      "name" : "Screenshot",
+      "source" : "8ad0e8ea9be94951.png",
+      "type" : "image/png",
+      "size" : 1375019
+    }, {
+      "uid" : "aa3012d8a281b9b5",
+      "name" : "Execution video",
+      "source" : "aa3012d8a281b9b5.mp4",
+      "type" : "video/mp4",
+      "size" : 305081
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 18,
+    "attachmentsCount" : 14,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validate filters in search results page - test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "Validate filters in search results page - test suite"
+  }, {
+    "name" : "testMethod",
+    "value" : "Update site settings and validate"
+  }, {
+    "name" : "package",
+    "value" : "Validate filters in search results page - test suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-100.0.4896.75"
+  }, {
+    "name" : "browserVersion",
+    "value" : "100.0.4896.75"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "2f1ff7a9a95d8d55.json",
+  "parameterValues" : [ "chrome-100.0.4896.75", "100.0.4896.75" ]
+}

@@ -15,12 +15,12 @@
     "uid" : "a358e701664bb2e1d1aa6ad7135a84a5",
     "name" : "Validate filters in search results page - test suite",
     "statistic" : {
-      "failed" : 1,
+      "failed" : 2,
       "broken" : 0,
       "skipped" : 0,
       "passed" : 2,
       "unknown" : 0,
-      "total" : 3
+      "total" : 4
     }
   }, {
     "uid" : "37a41abaafdfd874a1baa850c1b2c343",

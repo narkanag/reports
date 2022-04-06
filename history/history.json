@@ -1,4 +1,23 @@
 {
+  "960e5310c0a3cd374d1a087eabcef8df" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5034ec143d7477b7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1649214484407,
+        "stop" : 1649214495917,
+        "duration" : 11510
+      }
+    } ]
+  },
   "93dc56b36e97d16d3b5b7249cafd275d" : {
     "statistic" : {
       "failed" : 1,
@@ -9,13 +28,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "be34137d2309faf3",
+      "uid" : "bce18e6937fceb98",
       "status" : "failed",
       "statusDetails" : "expected 'https://www.viator.com/pt-br/?locales…' to include 'news'      \n                      actual expected\n                      \n                      'https://www.viator.com/pt-br/?localeswitch=1'undefined\n                      ",
       "time" : {
-        "start" : 1649213762010,
-        "stop" : 1649213772808,
-        "duration" : 10798
+        "start" : 1649214550680,
+        "stop" : 1649214561872,
+        "duration" : 11192
       }
     } ]
   },
@@ -29,32 +48,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "5507967ddfe0ce26",
+      "uid" : "3b3375cbe0722dd4",
       "status" : "failed",
       "statusDetails" : "expected 'https://www.viator.com/es-es/?locales…' to include 'news'      \n                      actual expected\n                      \n                      'https://www.viator.com/es-es/?localeswitch=1'undefined\n                      ",
       "time" : {
-        "start" : 1649213729071,
-        "stop" : 1649213740903,
-        "duration" : 11832
-      }
-    } ]
-  },
-  "3d309a2c9693b7c88ec8fe32eca1d573" : {
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "8344496eee74ac81",
-      "status" : "passed",
-      "time" : {
-        "start" : 1649213703401,
-        "stop" : 1649213711596,
-        "duration" : 8195
+        "start" : 1649214516659,
+        "stop" : 1649214528878,
+        "duration" : 12219
       }
     } ]
   },
@@ -68,16 +68,16 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "aa7a30e1c0e41b5f",
+      "uid" : "eea0a7350da81d94",
       "status" : "passed",
       "time" : {
-        "start" : 1649213597580,
-        "stop" : 1649213616719,
-        "duration" : 19139
+        "start" : 1649214429395,
+        "stop" : 1649214450656,
+        "duration" : 21261
       }
     } ]
   },
-  "84e70128558d87c3950b67cabb759f18" : {
+  "3d309a2c9693b7c88ec8fe32eca1d573" : {
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
@@ -87,12 +87,32 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "3d044963a4805d24",
+      "uid" : "248532066bb1d32c",
       "status" : "passed",
       "time" : {
-        "start" : 1649213690078,
-        "stop" : 1649213728035,
-        "duration" : 37957
+        "start" : 1649214397579,
+        "stop" : 1649214408389,
+        "duration" : 10810
+      }
+    } ]
+  },
+  "84e70128558d87c3950b67cabb759f18" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2f1ff7a9a95d8d55",
+      "status" : "failed",
+      "statusDetails" : "expected 'EN' to equal 'ES'      \n                      actual expected\n                      \n                      'ENES'\n                      ",
+      "time" : {
+        "start" : 1649214467163,
+        "stop" : 1649214484402,
+        "duration" : 17239
       }
     } ]
   },
@@ -106,32 +126,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "736cf968daa5414d",
+      "uid" : "bbc967d68184ed4d",
       "status" : "passed",
       "time" : {
-        "start" : 1649213693329,
-        "stop" : 1649213703329,
-        "duration" : 10000
-      }
-    } ]
-  },
-  "8d439ba831ed96354110743fa7de13da" : {
-    "statistic" : {
-      "failed" : 1,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 0,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "ebbfe087ecc5b664",
-      "status" : "failed",
-      "statusDetails" : "expected 'https://www.viator.com/es-pe/?locales…' to include 'news'      \n                      actual expected\n                      \n                      'https://www.viator.com/es-pe/?localeswitch=1'undefined\n                      ",
-      "time" : {
-        "start" : 1649213750830,
-        "stop" : 1649213761996,
-        "duration" : 11166
+        "start" : 1649214384059,
+        "stop" : 1649214397544,
+        "duration" : 13485
       }
     } ]
   },
@@ -145,12 +145,32 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "312b5e4ef79bcf6e",
+      "uid" : "856f73d8c08e0b3b",
       "status" : "passed",
       "time" : {
-        "start" : 1649213579162,
-        "stop" : 1649213611790,
-        "duration" : 32628
+        "start" : 1649214384071,
+        "stop" : 1649214403805,
+        "duration" : 19734
+      }
+    } ]
+  },
+  "8d439ba831ed96354110743fa7de13da" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "83dc64b3bc205895",
+      "status" : "failed",
+      "statusDetails" : "expected 'https://www.viator.com/es-pe/?locales…' to include 'news'      \n                      actual expected\n                      \n                      'https://www.viator.com/es-pe/?localeswitch=1'undefined\n                      ",
+      "time" : {
+        "start" : 1649214539193,
+        "stop" : 1649214550635,
+        "duration" : 11442
       }
     } ]
   },
@@ -164,12 +184,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "dc16e359c31143d5",
+      "uid" : "3de1efe311866b6c",
       "status" : "passed",
       "time" : {
-        "start" : 1649213658470,
-        "stop" : 1649213678865,
-        "duration" : 20395
+        "start" : 1649214493431,
+        "stop" : 1649214514637,
+        "duration" : 21206
       }
     } ]
   },
@@ -183,12 +203,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "e9288a18c6682247",
+      "uid" : "d795449ca1fc6320",
       "status" : "passed",
       "time" : {
-        "start" : 1649213740924,
-        "stop" : 1649213750820,
-        "duration" : 9896
+        "start" : 1649214528897,
+        "stop" : 1649214539184,
+        "duration" : 10287
       }
     } ]
   },
@@ -202,12 +222,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "f047bf8f18b0b7e6",
+      "uid" : "2a8eec5688ed96f0",
       "status" : "passed",
       "time" : {
-        "start" : 1649213623723,
-        "stop" : 1649213658466,
-        "duration" : 34743
+        "start" : 1649214457617,
+        "stop" : 1649214493422,
+        "duration" : 35805
       }
     } ]
   },
@@ -221,13 +241,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "3704b70155aca30e",
+      "uid" : "e0bd172217bc6354",
       "status" : "failed",
       "statusDetails" : "expected false to equal true      \n                      actual expected\n                      \n                      falsetrue\n                      ",
       "time" : {
-        "start" : 1649213611807,
-        "stop" : 1649213690068,
-        "duration" : 78261
+        "start" : 1649214403815,
+        "stop" : 1649214467139,
+        "duration" : 63324
       }
     } ]
   },
@@ -241,12 +261,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "cc89d56bc0afce8f",
+      "uid" : "7c29595a8605b02a",
       "status" : "passed",
       "time" : {
-        "start" : 1649213579142,
-        "stop" : 1649213597550,
-        "duration" : 18408
+        "start" : 1649214412770,
+        "stop" : 1649214429388,
+        "duration" : 16618
       }
     } ]
   },
@@ -260,12 +280,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "7731de3c06e21c06",
+      "uid" : "ab21b77fddc46914",
       "status" : "passed",
       "time" : {
-        "start" : 1649213678870,
-        "stop" : 1649213690335,
-        "duration" : 11465
+        "start" : 1649214514641,
+        "stop" : 1649214525762,
+        "duration" : 11121
       }
     } ]
   },
@@ -279,12 +299,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "dff02a511b4c1807",
+      "uid" : "9f4e2c2b4d3be7d7",
       "status" : "passed",
       "time" : {
-        "start" : 1649213718156,
-        "stop" : 1649213729036,
-        "duration" : 10880
+        "start" : 1649214502677,
+        "stop" : 1649214516636,
+        "duration" : 13959
       }
     } ]
   },
@@ -298,12 +318,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "1c34cb2f3d7f3239",
+      "uid" : "24f9d9581b4eea03",
       "status" : "passed",
       "time" : {
-        "start" : 1649213616722,
-        "stop" : 1649213623674,
-        "duration" : 6952
+        "start" : 1649214450659,
+        "stop" : 1649214457566,
+        "duration" : 6907
       }
     } ]
   }
