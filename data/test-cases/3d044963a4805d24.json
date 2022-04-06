@@ -1,0 +1,732 @@
+{
+  "uid" : "3d044963a4805d24",
+  "name" : "Update site settings and validate",
+  "fullName" : "Validate filters in search results page - test suite.Update site settings and validate",
+  "historyId" : "84e70128558d87c3950b67cabb759f18",
+  "time" : {
+    "start" : 1649213690078,
+    "stop" : 1649213728035,
+    "duration" : 37957
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Performed click operation on .cls-header-logo{fill:#186B6D;}\n                    una empresa de Tripadvisor",
+      "time" : {
+        "start" : 1649213693688,
+        "stop" : 1649213693688,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Wating for element to be displayed given timeout: 30000.",
+      "time" : {
+        "start" : 1649213694544,
+        "stop" : 1649213694544,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Mouse movd to  given locator",
+      "time" : {
+        "start" : 1649213694698,
+        "stop" : 1649213694698,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Wating for element to be clickable given timeout: 30000.",
+      "time" : {
+        "start" : 1649213694823,
+        "stop" : 1649213694823,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Performed click operation on Perfil",
+      "time" : {
+        "start" : 1649213696502,
+        "stop" : 1649213696502,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Wating for element to be displayed given timeout: 30000.",
+      "time" : {
+        "start" : 1649213696862,
+        "stop" : 1649213696862,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Performed click operation on Ajustes del sitio web",
+      "time" : {
+        "start" : 1649213697051,
+        "stop" : 1649213697051,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Performed click operation on Editar",
+      "time" : {
+        "start" : 1649213697653,
+        "stop" : 1649213697653,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Performed click operation on Español (Argentina)",
+      "time" : {
+        "start" : 1649213697979,
+        "stop" : 1649213697979,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Performed click operation on Español (Argentina)",
+      "time" : {
+        "start" : 1649213698524,
+        "stop" : 1649213698524,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Performed click operation on Guardar",
+      "time" : {
+        "start" : 1649213699041,
+        "stop" : 1649213699041,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Browser paused 2000",
+      "time" : {
+        "start" : 1649213701042,
+        "stop" : 1649213701042,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Performed click operation on Editar",
+      "time" : {
+        "start" : 1649213701225,
+        "stop" : 1649213701225,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Select option with value :EUR",
+      "time" : {
+        "start" : 1649213706539,
+        "stop" : 1649213706539,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Performed click operation on Guardar",
+      "time" : {
+        "start" : 1649213706964,
+        "stop" : 1649213706964,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Browser paused 2000",
+      "time" : {
+        "start" : 1649213708966,
+        "stop" : 1649213708966,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Performed click operation on .cls-header-logo{fill:#186B6D;}\n                    una empresa de Tripadvisor",
+      "time" : {
+        "start" : 1649213711367,
+        "stop" : 1649213711367,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "inner text of the DOM-element is : ES",
+      "time" : {
+        "start" : 1649213712832,
+        "stop" : 1649213712833,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "inner text of the DOM-element is : EUR",
+      "time" : {
+        "start" : 1649213712916,
+        "stop" : 1649213712916,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Wating for element to be displayed given timeout: 30000.",
+      "time" : {
+        "start" : 1649213712983,
+        "stop" : 1649213712983,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Mouse movd to  given locator",
+      "time" : {
+        "start" : 1649213713088,
+        "stop" : 1649213713088,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Wating for element to be clickable given timeout: 30000.",
+      "time" : {
+        "start" : 1649213713179,
+        "stop" : 1649213713179,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Performed click operation on Perfil",
+      "time" : {
+        "start" : 1649213714611,
+        "stop" : 1649213714611,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Wating for element to be displayed given timeout: 30000.",
+      "time" : {
+        "start" : 1649213714798,
+        "stop" : 1649213714798,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Performed click operation on Ajustes del sitio web",
+      "time" : {
+        "start" : 1649213714906,
+        "stop" : 1649213714906,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Performed click operation on Editar",
+      "time" : {
+        "start" : 1649213715614,
+        "stop" : 1649213715614,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Performed click operation on Español (Argentina)",
+      "time" : {
+        "start" : 1649213715881,
+        "stop" : 1649213715881,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Performed click operation on English",
+      "time" : {
+        "start" : 1649213716156,
+        "stop" : 1649213716156,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Performed click operation on Guardar",
+      "time" : {
+        "start" : 1649213716429,
+        "stop" : 1649213716429,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Browser paused 2000",
+      "time" : {
+        "start" : 1649213718432,
+        "stop" : 1649213718432,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Performed click operation on Editar",
+      "time" : {
+        "start" : 1649213718573,
+        "stop" : 1649213718573,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Select option with value :INR",
+      "time" : {
+        "start" : 1649213723701,
+        "stop" : 1649213723701,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Performed click operation on Guardar",
+      "time" : {
+        "start" : 1649213724028,
+        "stop" : 1649213724028,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Browser paused 2000",
+      "time" : {
+        "start" : 1649213726030,
+        "stop" : 1649213726030,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Browser paused 2000",
+      "time" : {
+        "start" : 1649213728032,
+        "stop" : 1649213728032,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "9ed1653bee7aaac1",
+      "name" : "Screenshot",
+      "source" : "9ed1653bee7aaac1.png",
+      "type" : "image/png",
+      "size" : 363886
+    }, {
+      "uid" : "3a8a37e8290d4a83",
+      "name" : "Screenshot",
+      "source" : "3a8a37e8290d4a83.png",
+      "type" : "image/png",
+      "size" : 933646
+    }, {
+      "uid" : "9e9fb4d118932689",
+      "name" : "Screenshot",
+      "source" : "9e9fb4d118932689.png",
+      "type" : "image/png",
+      "size" : 71610
+    }, {
+      "uid" : "38eeed94b501630a",
+      "name" : "Screenshot",
+      "source" : "38eeed94b501630a.png",
+      "type" : "image/png",
+      "size" : 68809
+    }, {
+      "uid" : "90c9685a696ce4cf",
+      "name" : "Screenshot",
+      "source" : "90c9685a696ce4cf.png",
+      "type" : "image/png",
+      "size" : 78261
+    }, {
+      "uid" : "7077362d6b084666",
+      "name" : "Screenshot",
+      "source" : "7077362d6b084666.png",
+      "type" : "image/png",
+      "size" : 87431
+    }, {
+      "uid" : "dec8a7486290e054",
+      "name" : "Screenshot",
+      "source" : "dec8a7486290e054.png",
+      "type" : "image/png",
+      "size" : 78500
+    }, {
+      "uid" : "7a436c030d4c3b8b",
+      "name" : "Screenshot",
+      "source" : "7a436c030d4c3b8b.png",
+      "type" : "image/png",
+      "size" : 78130
+    }, {
+      "uid" : "1387afd832bae6da",
+      "name" : "Screenshot",
+      "source" : "1387afd832bae6da.png",
+      "type" : "image/png",
+      "size" : 79431
+    }, {
+      "uid" : "788ab0f9eb9c88ce",
+      "name" : "Screenshot",
+      "source" : "788ab0f9eb9c88ce.png",
+      "type" : "image/png",
+      "size" : 79430
+    }, {
+      "uid" : "a694deea02958165",
+      "name" : "Screenshot",
+      "source" : "a694deea02958165.png",
+      "type" : "image/png",
+      "size" : 79076
+    }, {
+      "uid" : "8d15faf1f0c41c4",
+      "name" : "Screenshot",
+      "source" : "8d15faf1f0c41c4.png",
+      "type" : "image/png",
+      "size" : 933646
+    }, {
+      "uid" : "b6aebdad7eed9073",
+      "name" : "Screenshot",
+      "source" : "b6aebdad7eed9073.png",
+      "type" : "image/png",
+      "size" : 79748
+    }, {
+      "uid" : "b9e5de4d4df2bd83",
+      "name" : "Screenshot",
+      "source" : "b9e5de4d4df2bd83.png",
+      "type" : "image/png",
+      "size" : 69272
+    }, {
+      "uid" : "7bb150b7f134ad2e",
+      "name" : "Screenshot",
+      "source" : "7bb150b7f134ad2e.png",
+      "type" : "image/png",
+      "size" : 78358
+    }, {
+      "uid" : "b1859e43384f5c52",
+      "name" : "Screenshot",
+      "source" : "b1859e43384f5c52.png",
+      "type" : "image/png",
+      "size" : 80523
+    }, {
+      "uid" : "c5393ce75ca8b350",
+      "name" : "Screenshot",
+      "source" : "c5393ce75ca8b350.png",
+      "type" : "image/png",
+      "size" : 77283
+    }, {
+      "uid" : "fdc1bef5af774900",
+      "name" : "Screenshot",
+      "source" : "fdc1bef5af774900.png",
+      "type" : "image/png",
+      "size" : 76931
+    }, {
+      "uid" : "a3088665ea241c6c",
+      "name" : "Screenshot",
+      "source" : "a3088665ea241c6c.png",
+      "type" : "image/png",
+      "size" : 78062
+    }, {
+      "uid" : "6765d4abad229827",
+      "name" : "Screenshot",
+      "source" : "6765d4abad229827.png",
+      "type" : "image/png",
+      "size" : 77942
+    }, {
+      "uid" : "c455ceb71f783de1",
+      "name" : "Screenshot",
+      "source" : "c455ceb71f783de1.png",
+      "type" : "image/png",
+      "size" : 77747
+    }, {
+      "uid" : "29cb4e94a087fa4c",
+      "name" : "Execution video",
+      "source" : "29cb4e94a087fa4c.mp4",
+      "type" : "video/mp4",
+      "size" : 244946
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 35,
+    "attachmentsCount" : 22,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validate filters in search results page - test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "Validate filters in search results page - test suite"
+  }, {
+    "name" : "testMethod",
+    "value" : "Update site settings and validate"
+  }, {
+    "name" : "package",
+    "value" : "Validate filters in search results page - test suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-100.0.4896.75"
+  }, {
+    "name" : "browserVersion",
+    "value" : "100.0.4896.75"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3d044963a4805d24.json",
+  "parameterValues" : [ "chrome-100.0.4896.75", "100.0.4896.75" ]
+}

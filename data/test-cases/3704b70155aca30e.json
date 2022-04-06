@@ -1,0 +1,239 @@
+{
+  "uid" : "3704b70155aca30e",
+  "name" : "Apply and revert filters",
+  "fullName" : "Validate filters in search results page - test suite.Apply and revert filters",
+  "historyId" : "9927565d50ec9ed717e3ac7999902152",
+  "time" : {
+    "start" : 1649213611807,
+    "stop" : 1649213690068,
+    "duration" : 78261
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "expected false to equal true      \n                      actual expected\n                      \n                      falsetrue\n                      ",
+  "statusTrace" : "AssertionError: expected false to equal true\n                    at SearchResults.verifyClearFilters (/home/vsts/work/1/s/lib/web_automation/viator/pages/searchResults.js:58:78)\n                    at Context.<anonymous> (/home/vsts/work/1/s/lib/web_automation/viator/test/clear_filters.spec.js:46:35)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "expected false to equal true      \n                      actual expected\n                      \n                      falsetrue\n                      ",
+    "statusTrace" : "AssertionError: expected false to equal true\n                    at SearchResults.verifyClearFilters (/home/vsts/work/1/s/lib/web_automation/viator/pages/searchResults.js:58:78)\n                    at Context.<anonymous> (/home/vsts/work/1/s/lib/web_automation/viator/test/clear_filters.spec.js:46:35)",
+    "steps" : [ {
+      "name" : "Performed click operation on Las Vegas, Londres, París...",
+      "time" : {
+        "start" : 1649213632731,
+        "stop" : 1649213632732,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Enered text \"london\" in text field",
+      "time" : {
+        "start" : 1649213633575,
+        "stop" : 1649213633575,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Performed click operation on Londonderry",
+      "time" : {
+        "start" : 1649213636422,
+        "stop" : 1649213636422,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Browser paused 5000",
+      "time" : {
+        "start" : 1649213641425,
+        "stop" : 1649213641425,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "inner text of the DOM-element is : 39 resultados",
+      "time" : {
+        "start" : 1649213641499,
+        "stop" : 1649213641499,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Performed click operation on Ideal para evitar aglomeraciones",
+      "time" : {
+        "start" : 1649213641761,
+        "stop" : 1649213641761,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Browser paused 1000",
+      "time" : {
+        "start" : 1649213642762,
+        "stop" : 1649213642762,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "2d0ec9510f8bada2",
+      "name" : "Screenshot",
+      "source" : "2d0ec9510f8bada2.png",
+      "type" : "image/png",
+      "size" : 931768
+    }, {
+      "uid" : "886d58cb09fe3ef5",
+      "name" : "Screenshot",
+      "source" : "886d58cb09fe3ef5.png",
+      "type" : "image/png",
+      "size" : 926635
+    }, {
+      "uid" : "3f5eb38bea8405a7",
+      "name" : "Screenshot",
+      "source" : "3f5eb38bea8405a7.png",
+      "type" : "image/png",
+      "size" : 926814
+    }, {
+      "uid" : "ccbcc2b65f80bf08",
+      "name" : "Screenshot",
+      "source" : "ccbcc2b65f80bf08.png",
+      "type" : "image/png",
+      "size" : 842217
+    }, {
+      "uid" : "143f2f2b88903658",
+      "name" : "Screenshot",
+      "source" : "143f2f2b88903658.png",
+      "type" : "image/png",
+      "size" : 380909
+    }, {
+      "uid" : "61f994c99dbecdba",
+      "name" : "Screenshot",
+      "source" : "61f994c99dbecdba.png",
+      "type" : "image/png",
+      "size" : 106114
+    }, {
+      "uid" : "da88dfee0d41c7ce",
+      "name" : "Screenshot",
+      "source" : "da88dfee0d41c7ce.png",
+      "type" : "image/png",
+      "size" : 363886
+    }, {
+      "uid" : "f02348cbbdca80bd",
+      "name" : "Execution video",
+      "source" : "f02348cbbdca80bd.mp4",
+      "type" : "video/mp4",
+      "size" : 199187
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 7,
+    "attachmentsCount" : 8,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validate filters in search results page - test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "Validate filters in search results page - test suite"
+  }, {
+    "name" : "testMethod",
+    "value" : "Apply and revert filters"
+  }, {
+    "name" : "package",
+    "value" : "Validate filters in search results page - test suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-100.0.4896.75"
+  }, {
+    "name" : "browserVersion",
+    "value" : "100.0.4896.75"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "3704b70155aca30e.json",
+  "parameterValues" : [ "chrome-100.0.4896.75", "100.0.4896.75" ]
+}
