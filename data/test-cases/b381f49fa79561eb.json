@@ -1,0 +1,134 @@
+{
+  "uid" : "b381f49fa79561eb",
+  "name" : "Logout from application in web View",
+  "fullName" : "Validate filters in search results page - test suite.Logout from application in web View",
+  "historyId" : "9f3f4692bb840d13e43f63a09f2e0a81",
+  "time" : {
+    "start" : 1649209400740,
+    "stop" : 1649209459456,
+    "duration" : 58716
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "javascript error: Cannot read properties of null (reading 'setAttribute')\n                  (Session info: headless chrome=100.0.4896.75)",
+  "statusTrace" : "javascript error: Cannot read properties of null (reading 'setAttribute')\n                  (Session info: headless chrome=100.0.4896.75)\n                    at runMicrotasks (<anonymous>)\n                    at Utility.waitAndFindElement (/home/vsts/work/1/s/lib/utils/Utility.js:115:17)\n                    at Utility.waitForDisplayed (/home/vsts/work/1/s/lib/utils/Utility.js:289:14)\n                    at Header.logout (/home/vsts/work/1/s/lib/web_automation/viator/pages/header.js:58:19)\n                    at Context.<anonymous> (/home/vsts/work/1/s/lib/web_automation/viator/test/clear_filters.spec.js:59:28)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "javascript error: Cannot read properties of null (reading 'setAttribute')\n                  (Session info: headless chrome=100.0.4896.75)",
+    "statusTrace" : "javascript error: Cannot read properties of null (reading 'setAttribute')\n                  (Session info: headless chrome=100.0.4896.75)\n                    at runMicrotasks (<anonymous>)\n                    at Utility.waitAndFindElement (/home/vsts/work/1/s/lib/utils/Utility.js:115:17)\n                    at Utility.waitForDisplayed (/home/vsts/work/1/s/lib/utils/Utility.js:289:14)\n                    at Header.logout (/home/vsts/work/1/s/lib/web_automation/viator/pages/header.js:58:19)\n                    at Context.<anonymous> (/home/vsts/work/1/s/lib/web_automation/viator/test/clear_filters.spec.js:59:28)",
+    "steps" : [ {
+      "name" : "Scroll element into viewport",
+      "time" : {
+        "start" : 1649209400935,
+        "stop" : 1649209400935,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Browser paused 1000",
+      "time" : {
+        "start" : 1649209403938,
+        "stop" : 1649209403938,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "df7b2ba8bada14e5",
+      "name" : "Screenshot",
+      "source" : "df7b2ba8bada14e5.png",
+      "type" : "image/png",
+      "size" : 171633
+    }, {
+      "uid" : "78a83786352936f1",
+      "name" : "Screenshot",
+      "source" : "78a83786352936f1.png",
+      "type" : "image/png",
+      "size" : 171953
+    }, {
+      "uid" : "d46d62fa76cd6824",
+      "name" : "Execution video",
+      "source" : "d46d62fa76cd6824.mp4",
+      "type" : "video/mp4",
+      "size" : 21378
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "severity",
+    "value" : "minor"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Validate filters in search results page - test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "Validate filters in search results page - test suite"
+  }, {
+    "name" : "testMethod",
+    "value" : "Logout from application in web View"
+  }, {
+    "name" : "package",
+    "value" : "Validate filters in search results page - test suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-100.0.4896.75"
+  }, {
+    "name" : "browserVersion",
+    "value" : "100.0.4896.75"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "minor",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "b381f49fa79561eb.json",
+  "parameterValues" : [ "chrome-100.0.4896.75", "100.0.4896.75" ]
+}

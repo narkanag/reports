@@ -1,171 +1,171 @@
 [ {
-  "uid" : "6f703bd1c9b8b3",
+  "uid" : "b381f49fa79561eb",
+  "name" : "Logout from application in web View",
+  "time" : {
+    "start" : 1649209400740,
+    "stop" : 1649209459456,
+    "duration" : 58716
+  },
+  "status" : "broken",
+  "severity" : "minor"
+}, {
+  "uid" : "8c4219bebca24caf",
   "name" : "Logout from application in mobile View",
   "time" : {
-    "start" : 1649191220155,
-    "stop" : 1649191229435,
-    "duration" : 9280
+    "start" : 1649209430909,
+    "stop" : 1649209440391,
+    "duration" : 9482
   },
   "status" : "passed",
   "severity" : "minor"
 }, {
-  "uid" : "6ee8d83360f5af61",
-  "name" : "Verify and validate Viator application news page for 'English (Canada)'",
+  "uid" : "838dceb5e02c9ff",
+  "name" : "Logged into Application with valid credentials in web View",
   "time" : {
-    "start" : 1649191338458,
-    "stop" : 1649191389429,
-    "duration" : 50971
+    "start" : 1649209319197,
+    "stop" : 1649209336272,
+    "duration" : 17075
   },
   "status" : "broken",
   "severity" : "normal"
 }, {
-  "uid" : "778344f8e51c0563",
+  "uid" : "dfd1bb05ec5196b6",
+  "name" : "Logged into Application with valid credentials in web View",
+  "time" : {
+    "start" : 1649209274728,
+    "stop" : 1649209293141,
+    "duration" : 18413
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "de7c7ebe641b6f55",
+  "name" : "Verify and validate Viator application news page for 'Español (Perú)'",
+  "time" : {
+    "start" : 1649209599687,
+    "stop" : 1649209651011,
+    "duration" : 51324
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "14bc3f12ba1b6b4f",
+  "name" : "Update site settings and validate",
+  "time" : {
+    "start" : 1649209370157,
+    "stop" : 1649209400730,
+    "duration" : 30573
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "c7cb9bf09ce26029",
+  "name" : "Verify and validate Viator application news page for 'Español'",
+  "time" : {
+    "start" : 1649209496533,
+    "stop" : 1649209548904,
+    "duration" : 52371
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "9ae1f9cd90bfb3a0",
+  "name" : "Verify and validate Viator application content in'English'",
+  "time" : {
+    "start" : 1649209274726,
+    "stop" : 1649209295980,
+    "duration" : 21254
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "73a30ab9441733e5",
+  "name" : "Apply and revert filters",
+  "time" : {
+    "start" : 1649209336294,
+    "stop" : 1649209370151,
+    "duration" : 33857
+  },
+  "status" : "broken",
+  "severity" : "critical"
+}, {
+  "uid" : "14c559eba8fb2b3",
+  "name" : "Verify and validate Viator application news page for 'Português (Brasil)'",
+  "time" : {
+    "start" : 1649209651019,
+    "stop" : 1649209702758,
+    "duration" : 51739
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "56541c8f450eebeb",
+  "name" : "Verify and validate Viator application news page for 'English (Canada)'",
+  "time" : {
+    "start" : 1649209548911,
+    "stop" : 1649209599680,
+    "duration" : 50769
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "d4206af21bc1c0ae",
+  "name" : "Verify and validate Viator application content in'Português (Brasil)'",
+  "time" : {
+    "start" : 1649209296044,
+    "stop" : 1649209314860,
+    "duration" : 18816
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "a85533e03112a659",
+  "name" : "Verify and validate Viator application news page for 'English'",
+  "time" : {
+    "start" : 1649209444109,
+    "stop" : 1649209496519,
+    "duration" : 52410
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "bc66a4f2f566a614",
+  "name" : "Logout from application in web View",
+  "time" : {
+    "start" : 1649209314344,
+    "stop" : 1649209373135,
+    "duration" : 58791
+  },
+  "status" : "broken",
+  "severity" : "minor"
+}, {
+  "uid" : "e1effa128d0cc3",
   "name" : "Logged into Application with valid credentials in mobile View",
   "time" : {
-    "start" : 1649191160413,
-    "stop" : 1649191197525,
-    "duration" : 37112
+    "start" : 1649209373177,
+    "stop" : 1649209411856,
+    "duration" : 38679
   },
   "status" : "passed",
   "severity" : "blocker"
 }, {
-  "uid" : "1a7cd8f1f3234ce6",
+  "uid" : "3d859a5db1ccb927",
   "name" : "Search and Select Tour plan in mobile View",
   "time" : {
-    "start" : 1649191197552,
-    "stop" : 1649191220151,
-    "duration" : 22599
+    "start" : 1649209411864,
+    "stop" : 1649209430906,
+    "duration" : 19042
   },
   "status" : "passed",
   "severity" : "critical"
 }, {
-  "uid" : "e992aa18fe2a826c",
-  "name" : "Verify and validate Viator application news page for 'Português (Brasil)'",
-  "time" : {
-    "start" : 1649191440418,
-    "stop" : 1649191491027,
-    "duration" : 50609
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "1820512b70e85bb",
-  "name" : "Verify and validate Viator application content in'English'",
-  "time" : {
-    "start" : 1649191209700,
-    "stop" : 1649191228376,
-    "duration" : 18676
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "eed5b230fc429606",
+  "uid" : "a893d3f513415077",
   "name" : "Search and Select Tour plan in web View",
   "time" : {
-    "start" : 1649191084800,
-    "stop" : 1649191101742,
-    "duration" : 16942
+    "start" : 1649209293144,
+    "stop" : 1649209314331,
+    "duration" : 21187
   },
   "status" : "passed",
   "severity" : "critical"
-}, {
-  "uid" : "5b670980e2e922da",
-  "name" : "Logout from application in web View",
-  "time" : {
-    "start" : 1649191148225,
-    "stop" : 1649191206922,
-    "duration" : 58697
-  },
-  "status" : "broken",
-  "severity" : "minor"
-}, {
-  "uid" : "67ddfec4d1952459",
-  "name" : "Verify and validate Viator application content in'Português (Brasil)'",
-  "time" : {
-    "start" : 1649191228387,
-    "stop" : 1649191246888,
-    "duration" : 18501
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "fbba9f12a8196fff",
-  "name" : "Verify and validate Viator application news page for 'Español (Perú)'",
-  "time" : {
-    "start" : 1649191389437,
-    "stop" : 1649191440411,
-    "duration" : 50974
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "db477d57c6e598d5",
-  "name" : "Logged into Application with valid credentials in web View",
-  "time" : {
-    "start" : 1649191065043,
-    "stop" : 1649191084797,
-    "duration" : 19754
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "83235959f25461b1",
-  "name" : "Logout from application in web View",
-  "time" : {
-    "start" : 1649191101760,
-    "stop" : 1649191160388,
-    "duration" : 58628
-  },
-  "status" : "broken",
-  "severity" : "minor"
-}, {
-  "uid" : "3f2c04f4e9695db9",
-  "name" : "Update site settings and validate",
-  "time" : {
-    "start" : 1649191117768,
-    "stop" : 1649191148219,
-    "duration" : 30451
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "6a917660003c28e5",
-  "name" : "Verify and validate Viator application news page for 'English'",
-  "time" : {
-    "start" : 1649191234577,
-    "stop" : 1649191287419,
-    "duration" : 52842
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "2ed93677a9a42a45",
-  "name" : "Logged into Application with valid credentials in web View",
-  "time" : {
-    "start" : 1649191065027,
-    "stop" : 1649191083550,
-    "duration" : 18523
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "b484ec340bddcc7",
-  "name" : "Apply and revert filters",
-  "time" : {
-    "start" : 1649191083555,
-    "stop" : 1649191117765,
-    "duration" : 34210
-  },
-  "status" : "broken",
-  "severity" : "critical"
-}, {
-  "uid" : "81f5a4120638e930",
-  "name" : "Verify and validate Viator application news page for 'Español'",
-  "time" : {
-    "start" : 1649191287430,
-    "stop" : 1649191338451,
-    "duration" : 51021
-  },
-  "status" : "broken",
-  "severity" : "normal"
 } ]

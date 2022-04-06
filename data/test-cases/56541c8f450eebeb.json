@@ -1,0 +1,164 @@
+{
+  "uid" : "56541c8f450eebeb",
+  "name" : "Verify and validate Viator application news page for 'English (Canada)'",
+  "fullName" : "Validate news page in different launguage.Verify and validate Viator application news page for 'English (Canada)'",
+  "historyId" : "f25a6424b7979bf1a35f6713dd16a4f3",
+  "time" : {
+    "start" : 1649209548911,
+    "stop" : 1649209599680,
+    "duration" : 50769
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "javascript error: Cannot read properties of null (reading 'setAttribute')\n                  (Session info: headless chrome=100.0.4896.75)",
+  "statusTrace" : "javascript error: Cannot read properties of null (reading 'setAttribute')\n                  (Session info: headless chrome=100.0.4896.75)\n                    at Utility.waitAndFindElement (/home/vsts/work/1/s/lib/utils/Utility.js:115:17)\n                    at Utility.click (/home/vsts/work/1/s/lib/utils/Utility.js:119:30)\n                    at Header.switchToCountryByLanguageInNewsPage (/home/vsts/work/1/s/lib/web_automation/viator/pages/header.js:28:15)\n                    at Context.<anonymous> (/home/vsts/work/1/s/lib/web_automation/viator/test/news_localization.spec.js:34:24)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "javascript error: Cannot read properties of null (reading 'setAttribute')\n                  (Session info: headless chrome=100.0.4896.75)",
+    "statusTrace" : "javascript error: Cannot read properties of null (reading 'setAttribute')\n                  (Session info: headless chrome=100.0.4896.75)\n                    at Utility.waitAndFindElement (/home/vsts/work/1/s/lib/utils/Utility.js:115:17)\n                    at Utility.click (/home/vsts/work/1/s/lib/utils/Utility.js:119:30)\n                    at Header.switchToCountryByLanguageInNewsPage (/home/vsts/work/1/s/lib/web_automation/viator/pages/header.js:28:15)\n                    at Context.<anonymous> (/home/vsts/work/1/s/lib/web_automation/viator/test/news_localization.spec.js:34:24)",
+    "steps" : [ {
+      "name" : "Performed click operation on News",
+      "time" : {
+        "start" : 1649209551982,
+        "stop" : 1649209551982,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Browser paused 2000",
+      "time" : {
+        "start" : 1649209553983,
+        "stop" : 1649209553983,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Current URL is  : https://www.viator.com/news.",
+      "time" : {
+        "start" : 1649209553997,
+        "stop" : 1649209553997,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "e52ae91406049e14",
+      "name" : "Screenshot",
+      "source" : "e52ae91406049e14.png",
+      "type" : "image/png",
+      "size" : 352695
+    }, {
+      "uid" : "78be19f1d63a1115",
+      "name" : "Screenshot",
+      "source" : "78be19f1d63a1115.png",
+      "type" : "image/png",
+      "size" : 455982
+    }, {
+      "uid" : "a1e164a1612f220",
+      "name" : "Screenshot",
+      "source" : "a1e164a1612f220.png",
+      "type" : "image/png",
+      "size" : 352695
+    }, {
+      "uid" : "7adeb4f59779071b",
+      "name" : "Screenshot",
+      "source" : "7adeb4f59779071b.png",
+      "type" : "image/png",
+      "size" : 352695
+    }, {
+      "uid" : "cdef4b2f74117d77",
+      "name" : "Screenshot",
+      "source" : "cdef4b2f74117d77.png",
+      "type" : "image/png",
+      "size" : 352695
+    }, {
+      "uid" : "1fab415411532e3",
+      "name" : "Execution video",
+      "source" : "1fab415411532e3.mp4",
+      "type" : "video/mp4",
+      "size" : 40623
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "attachmentsCount" : 6,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-3"
+  }, {
+    "name" : "suite",
+    "value" : "Validate news page in different launguage"
+  }, {
+    "name" : "testClass",
+    "value" : "Validate news page in different launguage"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify and validate Viator application news page for 'English (Canada)'"
+  }, {
+    "name" : "package",
+    "value" : "Validate news page in different launguage"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-100.0.4896.75"
+  }, {
+    "name" : "browserVersion",
+    "value" : "100.0.4896.75"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "56541c8f450eebeb.json",
+  "parameterValues" : [ "chrome-100.0.4896.75", "100.0.4896.75" ]
+}

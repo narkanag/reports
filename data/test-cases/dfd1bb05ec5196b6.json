@@ -1,0 +1,95 @@
+{
+  "uid" : "dfd1bb05ec5196b6",
+  "name" : "Logged into Application with valid credentials in web View",
+  "fullName" : "Search and select Tour  - test suite.Logged into Application with valid credentials in web View",
+  "historyId" : "3e268496c0525b188f4c5924e6688d8a",
+  "time" : {
+    "start" : 1649209274728,
+    "stop" : 1649209293141,
+    "duration" : 18413
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "javascript error: Cannot read properties of null (reading 'setAttribute')\n                  (Session info: headless chrome=100.0.4896.75)",
+  "statusTrace" : "javascript error: Cannot read properties of null (reading 'setAttribute')\n                  (Session info: headless chrome=100.0.4896.75)\n                    at Utility.waitAndFindElement (/home/vsts/work/1/s/lib/utils/Utility.js:115:17)\n                    at Utility.mouseOver (/home/vsts/work/1/s/lib/utils/Utility.js:242:14)\n                    at Header.navigateToLoginPage (/home/vsts/work/1/s/lib/web_automation/viator/pages/header.js:37:19)\n                    at Context.<anonymous> (/home/vsts/work/1/s/lib/web_automation/viator/test/e2e_bookTour.spec.js:34:24)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "javascript error: Cannot read properties of null (reading 'setAttribute')\n                  (Session info: headless chrome=100.0.4896.75)",
+    "statusTrace" : "javascript error: Cannot read properties of null (reading 'setAttribute')\n                  (Session info: headless chrome=100.0.4896.75)\n                    at Utility.waitAndFindElement (/home/vsts/work/1/s/lib/utils/Utility.js:115:17)\n                    at Utility.mouseOver (/home/vsts/work/1/s/lib/utils/Utility.js:242:14)\n                    at Header.navigateToLoginPage (/home/vsts/work/1/s/lib/web_automation/viator/pages/header.js:37:19)\n                    at Context.<anonymous> (/home/vsts/work/1/s/lib/web_automation/viator/test/e2e_bookTour.spec.js:34:24)",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "bd01dd4d10e36afa",
+      "name" : "Screenshot",
+      "source" : "bd01dd4d10e36afa.png",
+      "type" : "image/png",
+      "size" : 455982
+    }, {
+      "uid" : "a2f0a78ee8fe258d",
+      "name" : "Execution video",
+      "source" : "a2f0a78ee8fe258d.mp4",
+      "type" : "video/mp4",
+      "size" : 25254
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Search and select Tour  - test suite"
+  }, {
+    "name" : "testClass",
+    "value" : "Search and select Tour  - test suite"
+  }, {
+    "name" : "testMethod",
+    "value" : "Logged into Application with valid credentials in web View"
+  }, {
+    "name" : "package",
+    "value" : "Search and select Tour  - test suite"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-100.0.4896.75"
+  }, {
+    "name" : "browserVersion",
+    "value" : "100.0.4896.75"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "dfd1bb05ec5196b6.json",
+  "parameterValues" : [ "chrome-100.0.4896.75", "100.0.4896.75" ]
+}
