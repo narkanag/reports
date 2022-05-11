@@ -1,12 +1,12 @@
 {
-  "uid" : "f6ccb49ae8dcfd30",
+  "uid" : "55f600d2469c3969",
   "name" : "POST Method- Create User",
   "fullName" : "API Test Suite.POST Method- Create User",
   "historyId" : "88e2e7f2e21cde24166097c1f57e5595",
   "time" : {
-    "start" : 1652262870118,
-    "stop" : 1652262870517,
-    "duration" : 399
+    "start" : 1652279031727,
+    "stop" : 1652279032272,
+    "duration" : 545
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -22,15 +22,15 @@
     "status" : "passed",
     "steps" : [ ],
     "attachments" : [ {
-      "uid" : "9a96d38caab7f80b",
+      "uid" : "8c406162c4aacee3",
       "name" : "Screenshot",
-      "source" : "9a96d38caab7f80b.png",
+      "source" : "8c406162c4aacee3.png",
       "type" : "image/png",
       "size" : 3249
     }, {
-      "uid" : "66bceca2c9dcb9ca",
+      "uid" : "fa02e74b240c3eed",
       "name" : "Execution video",
-      "source" : "66bceca2c9dcb9ca.mp4",
+      "source" : "fa02e74b240c3eed.mp4",
       "type" : "video/mp4",
       "size" : 1735
     } ],
@@ -85,6 +85,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "f6ccb49ae8dcfd30.json",
+  "source" : "55f600d2469c3969.json",
   "parameterValues" : [ "chrome-101.0.4951.64", "101.0.4951.64" ]
 }

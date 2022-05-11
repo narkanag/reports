@@ -1,60 +1,60 @@
 [ {
-  "uid" : "19f825db2258d11c",
-  "name" : "GET - Get LIST USERS (With Query Params)",
-  "time" : {
-    "start" : 1652262869832,
-    "stop" : 1652262870006,
-    "duration" : 174
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "e3b137ec9b104516",
-  "name" : "PUT Method- Update User",
-  "time" : {
-    "start" : 1652262870522,
-    "stop" : 1652262870905,
-    "duration" : 383
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "a2f92863c13d8c39",
-  "name" : "Nested Calls - Authorization Example",
-  "time" : {
-    "start" : 1652262871288,
-    "stop" : 1652262871295,
-    "duration" : 7
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "f6ccb49ae8dcfd30",
-  "name" : "POST Method- Create User",
-  "time" : {
-    "start" : 1652262870118,
-    "stop" : 1652262870517,
-    "duration" : 399
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "e5fa19e3e9aa745a",
+  "uid" : "761fdb62120e5cfc",
   "name" : "GET Method -Get User",
   "time" : {
-    "start" : 1652262870026,
-    "stop" : 1652262870113,
-    "duration" : 87
+    "start" : 1652279031485,
+    "stop" : 1652279031709,
+    "duration" : 224
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "1d33ba195712285a",
+  "uid" : "2ea772839e21db01",
+  "name" : "Nested Calls - Authorization Example",
+  "time" : {
+    "start" : 1652279033273,
+    "stop" : 1652279033276,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9ab53709df05f382",
   "name" : "DELETE Method- Delete User",
   "time" : {
-    "start" : 1652262870914,
-    "stop" : 1652262871285,
-    "duration" : 371
+    "start" : 1652279032754,
+    "stop" : 1652279033255,
+    "duration" : 501
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2d95c91edcb8a2d6",
+  "name" : "PUT Method- Update User",
+  "time" : {
+    "start" : 1652279032288,
+    "stop" : 1652279032736,
+    "duration" : 448
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "55f600d2469c3969",
+  "name" : "POST Method- Create User",
+  "time" : {
+    "start" : 1652279031727,
+    "stop" : 1652279032272,
+    "duration" : 545
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "26121610cb3512a",
+  "name" : "GET - Get LIST USERS (With Query Params)",
+  "time" : {
+    "start" : 1652279031126,
+    "stop" : 1652279031460,
+    "duration" : 334
   },
   "status" : "passed",
   "severity" : "normal"

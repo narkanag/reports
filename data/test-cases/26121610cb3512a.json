@@ -1,12 +1,12 @@
 {
-  "uid" : "19f825db2258d11c",
+  "uid" : "26121610cb3512a",
   "name" : "GET - Get LIST USERS (With Query Params)",
   "fullName" : "API Test Suite.GET - Get LIST USERS (With Query Params)",
   "historyId" : "c4db66a9db59807ea5fb75aedbfff285",
   "time" : {
-    "start" : 1652262869832,
-    "stop" : 1652262870006,
-    "duration" : 174
+    "start" : 1652279031126,
+    "stop" : 1652279031460,
+    "duration" : 334
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -22,9 +22,9 @@
     "status" : "passed",
     "steps" : [ ],
     "attachments" : [ {
-      "uid" : "b3668e04f61a8120",
+      "uid" : "486be5a6433997d4",
       "name" : "Execution video",
-      "source" : "b3668e04f61a8120.mp4",
+      "source" : "486be5a6433997d4.mp4",
       "type" : "video/mp4",
       "size" : 1735
     } ],
@@ -76,6 +76,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "19f825db2258d11c.json",
+  "source" : "26121610cb3512a.json",
   "parameterValues" : [ "chrome-101.0.4951.64", "101.0.4951.64" ]
 }

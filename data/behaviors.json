@@ -2,13 +2,13 @@
   "uid" : "b1a8273437954620fa374b796ffaacdd",
   "children" : [ {
     "name" : "GET - Get LIST USERS (With Query Params)",
-    "uid" : "19f825db2258d11c",
+    "uid" : "26121610cb3512a",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1652262869832,
-      "stop" : 1652262870006,
-      "duration" : 174
+      "start" : 1652279031126,
+      "stop" : 1652279031460,
+      "duration" : 334
     },
     "flaky" : false,
     "newFailed" : false,
@@ -19,13 +19,13 @@
     "parameters" : [ "chrome-101.0.4951.64", "101.0.4951.64" ]
   }, {
     "name" : "GET Method -Get User",
-    "uid" : "e5fa19e3e9aa745a",
+    "uid" : "761fdb62120e5cfc",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1652262870026,
-      "stop" : 1652262870113,
-      "duration" : 87
+      "start" : 1652279031485,
+      "stop" : 1652279031709,
+      "duration" : 224
     },
     "flaky" : false,
     "newFailed" : false,
@@ -36,13 +36,13 @@
     "parameters" : [ "chrome-101.0.4951.64", "101.0.4951.64" ]
   }, {
     "name" : "POST Method- Create User",
-    "uid" : "f6ccb49ae8dcfd30",
+    "uid" : "55f600d2469c3969",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1652262870118,
-      "stop" : 1652262870517,
-      "duration" : 399
+      "start" : 1652279031727,
+      "stop" : 1652279032272,
+      "duration" : 545
     },
     "flaky" : false,
     "newFailed" : false,
@@ -53,13 +53,13 @@
     "parameters" : [ "chrome-101.0.4951.64", "101.0.4951.64" ]
   }, {
     "name" : "PUT Method- Update User",
-    "uid" : "e3b137ec9b104516",
+    "uid" : "2d95c91edcb8a2d6",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1652262870522,
-      "stop" : 1652262870905,
-      "duration" : 383
+      "start" : 1652279032288,
+      "stop" : 1652279032736,
+      "duration" : 448
     },
     "flaky" : false,
     "newFailed" : false,
@@ -70,13 +70,13 @@
     "parameters" : [ "chrome-101.0.4951.64", "101.0.4951.64" ]
   }, {
     "name" : "DELETE Method- Delete User",
-    "uid" : "1d33ba195712285a",
+    "uid" : "9ab53709df05f382",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1652262870914,
-      "stop" : 1652262871285,
-      "duration" : 371
+      "start" : 1652279032754,
+      "stop" : 1652279033255,
+      "duration" : 501
     },
     "flaky" : false,
     "newFailed" : false,
@@ -87,13 +87,13 @@
     "parameters" : [ "chrome-101.0.4951.64", "101.0.4951.64" ]
   }, {
     "name" : "Nested Calls - Authorization Example",
-    "uid" : "a2f92863c13d8c39",
+    "uid" : "2ea772839e21db01",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1652262871288,
-      "stop" : 1652262871295,
-      "duration" : 7
+      "start" : 1652279033273,
+      "stop" : 1652279033276,
+      "duration" : 3
     },
     "flaky" : false,
     "newFailed" : false,
