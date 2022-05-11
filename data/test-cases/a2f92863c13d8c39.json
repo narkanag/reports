@@ -1,12 +1,12 @@
 {
-  "uid" : "1cd2293887496583",
+  "uid" : "a2f92863c13d8c39",
   "name" : "Nested Calls - Authorization Example",
   "fullName" : "API Test Suite.Nested Calls - Authorization Example",
   "historyId" : "c9e8fcee45f6db71ad1b7059023efa81",
   "time" : {
-    "start" : 1652256213704,
-    "stop" : 1652256213706,
-    "duration" : 2
+    "start" : 1652262871288,
+    "stop" : 1652262871295,
+    "duration" : 7
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -22,9 +22,9 @@
     "status" : "passed",
     "steps" : [ ],
     "attachments" : [ {
-      "uid" : "f91d16226e021a62",
+      "uid" : "bb0c4e1a8dbf2573",
       "name" : "Execution video",
-      "source" : "f91d16226e021a62.mp4",
+      "source" : "bb0c4e1a8dbf2573.mp4",
       "type" : "video/mp4",
       "size" : 1735
     } ],
@@ -79,6 +79,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "1cd2293887496583.json",
+  "source" : "a2f92863c13d8c39.json",
   "parameterValues" : [ "chrome-101.0.4951.64", "101.0.4951.64" ]
 }

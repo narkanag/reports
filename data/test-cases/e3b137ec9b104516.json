@@ -1,12 +1,12 @@
 {
-  "uid" : "7ad433fe583fba22",
-  "name" : "DELETE Method- Delete User",
-  "fullName" : "API Test Suite.DELETE Method- Delete User",
-  "historyId" : "31263a31ce2990ac0893511aa9b9ff68",
+  "uid" : "e3b137ec9b104516",
+  "name" : "PUT Method- Update User",
+  "fullName" : "API Test Suite.PUT Method- Update User",
+  "historyId" : "ef0de1a6e2c2929608149aeb29fcb5c2",
   "time" : {
-    "start" : 1652256213344,
-    "stop" : 1652256213696,
-    "duration" : 352
+    "start" : 1652262870522,
+    "stop" : 1652262870905,
+    "duration" : 383
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -22,15 +22,15 @@
     "status" : "passed",
     "steps" : [ ],
     "attachments" : [ {
-      "uid" : "a42f9c7bd00dd74c",
+      "uid" : "2d43757660aad94",
       "name" : "Screenshot",
-      "source" : "a42f9c7bd00dd74c.png",
+      "source" : "2d43757660aad94.png",
       "type" : "image/png",
       "size" : 3249
     }, {
-      "uid" : "f0a9da0b7658eb6f",
+      "uid" : "8ea5d62afaac589c",
       "name" : "Execution video",
-      "source" : "f0a9da0b7658eb6f.mp4",
+      "source" : "8ea5d62afaac589c.mp4",
       "type" : "video/mp4",
       "size" : 1735
     } ],
@@ -58,7 +58,7 @@
     "value" : "API Test Suite"
   }, {
     "name" : "testMethod",
-    "value" : "DELETE Method- Delete User"
+    "value" : "PUT Method- Update User"
   }, {
     "name" : "package",
     "value" : "API Test Suite"
@@ -82,6 +82,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "7ad433fe583fba22.json",
+  "source" : "e3b137ec9b104516.json",
   "parameterValues" : [ "chrome-101.0.4951.64", "101.0.4951.64" ]
 }
