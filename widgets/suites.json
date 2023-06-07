@@ -1,15 +1,1 @@
-{
-  "total" : 1,
-  "items" : [ {
-    "uid" : "d71b2bcdc75023cfe61e78332035056e",
-    "name" : "API Test Suite",
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 6,
-      "unknown" : 0,
-      "total" : 6
-    }
-  } ]
-}
+{"total":1,"items":[{"uid":"77d5a5b8f910e60b40108cda74d27b88","name":"Place The order  - test suite","statistic":{"failed":0,"broken":0,"skipped":0,"passed":8,"unknown":0,"total":8}}]}

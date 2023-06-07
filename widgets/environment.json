@@ -1,13 +1,1 @@
-[ {
-  "values" : [ "qa" ],
-  "name" : "ENVIRONMENT"
-}, {
-  "values" : [ "https://reqres.in" ],
-  "name" : "APPLICATION URL"
-}, {
-  "values" : [ "Intel(R) Xeon(R) Platinum 8272CL CPU @ 2.60GHz" ],
-  "name" : "CPU"
-}, {
-  "values" : [ "fv-az237-352" ],
-  "name" : "HOSTNAME"
-} ]
+[{"values":["LAPIN6FGNL63"],"name":"HOSTNAME"}]
